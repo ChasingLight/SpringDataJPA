@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/dataSources/aefb81ef-98d6-4787-8b2f-d15f54a4ccc1/_src_/
+.idea/dataSources/aefb81ef-98d6-4787-8b2f-d15f54a4ccc1/_staging_/
+.idea/inspectionProfiles/
+.idea/vcs.xml
+out/artifacts/SpringDataJPA_war_exploded/WEB-INF/
+target/generated-test-sources/

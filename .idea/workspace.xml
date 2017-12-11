@@ -5,7 +5,135 @@
     <bookmark url="file://$PROJECT_DIR$/pom.xml" line="269" mnemonic="1" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18f7762c-fbf8-4874-9510-ae8fd8e76629" name="Default" comment="" />
+    <list default="true" id="18f7762c-fbf8-4874-9510-ae8fd8e76629" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/classes/config.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/classes/log4j.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/classes/org/jaden/jpa/controller/FileUploadController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/classes/org/jaden/jpa/controller/ViewController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/classes/org/jaden/jpa/entity/Books.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/classes/org/jaden/jpa/entity/Books_.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/classes/org/jaden/jpa/entity/Course.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/classes/org/jaden/jpa/entity/Course_.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/classes/org/jaden/jpa/entity/Student.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/classes/org/jaden/jpa/entity/StudentExtraInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/classes/org/jaden/jpa/entity/StudentExtraInfo_.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/classes/org/jaden/jpa/entity/Student_.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/classes/org/jaden/jpa/entity/Teacher.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/classes/org/jaden/jpa/entity/Teacher_.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/classes/org/jaden/jpa/repository/BooksRepository.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/classes/org/jaden/jpa/repository/CourseRepository.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/classes/org/jaden/jpa/repository/StudentRepository.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/classes/org/jaden/jpa/repository/TeacherRepository.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/classes/org/jaden/jpa/service/BooksService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/classes/org/jaden/jpa/service/CourseService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/classes/org/jaden/jpa/service/StudentService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/classes/org/jaden/jpa/service/TeacherService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/classes/org/jaden/jpa/utils/PropertiesUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/classes/org/jaden/jpa/vo/StudentVo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/classes/org/jaden/jpa/vo/TeacherVo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/classes/org/jaden/jpa/vo/TeacherVo_.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/classes/persistence-mysql.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/classes/spring-context.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/classes/spring-data-jpa.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/classes/spring/event/demo/ContentEvent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/classes/spring/event/demo/LisiListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/classes/spring/event/demo/SunliuListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/classes/spring/event/demo/WangwuListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/classes/spring/event/demo/ZhangsanListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/antlr-2.7.7.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/aopalliance-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/aspectjrt-1.8.10.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/aspectjweaver-1.7.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/commons-dbcp-1.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/commons-io-2.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/commons-lang3-3.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/commons-pool-1.5.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/dom4j-1.6.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/druid-1.0.26.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/ehcache-core-2.4.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/fastjson-1.2.7.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/hibernate-commons-annotations-4.0.5.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/hibernate-core-4.3.7.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/hibernate-ehcache-4.3.7.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/hibernate-entitymanager-4.3.7.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/hibernate-jpamodelgen-4.3.7.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/jandex-1.1.0.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/javassist-3.18.1-GA.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/jboss-logging-3.1.3.GA.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/jboss-logging-annotations-1.2.0.Beta1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.0.0.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/jcl-over-slf4j-1.5.8.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/jstl-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/log4j-1.2.14.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/mysql-connector-java-6.0.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/slf4j-api-1.5.8.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/slf4j-log4j12-1.5.8.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/spring-aop-4.3.9.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/spring-beans-4.3.9.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/spring-context-4.3.9.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/spring-core-4.3.9.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/spring-data-commons-1.13.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/spring-data-jpa-1.11.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/spring-expression-4.3.9.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/spring-jdbc-4.3.9.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/spring-orm-4.3.9.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/spring-security-config-4.2.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/spring-security-core-4.2.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/spring-security-web-4.2.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/spring-tx-4.3.9.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/spring-web-4.3.9.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/spring-webmvc-4.3.9.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/lib/xml-apis-1.0.b2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/views/app.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/views/upload.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/views/uploadFail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/views/uploadFiles.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/views/uploadSuccess.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/app.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SpringDataJPA/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/config.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/log4j.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/jaden/jpa/controller/FileUploadController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/jaden/jpa/controller/ViewController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/jaden/jpa/entity/Books.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/jaden/jpa/entity/Books_.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/jaden/jpa/entity/Course.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/jaden/jpa/entity/Course_.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/jaden/jpa/entity/Student.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/jaden/jpa/entity/StudentExtraInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/jaden/jpa/entity/StudentExtraInfo_.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/jaden/jpa/entity/Student_.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/jaden/jpa/entity/Teacher.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/jaden/jpa/entity/Teacher_.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/jaden/jpa/repository/BooksRepository.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/jaden/jpa/repository/CourseRepository.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/jaden/jpa/repository/StudentRepository.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/jaden/jpa/repository/TeacherRepository.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/jaden/jpa/service/BooksService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/jaden/jpa/service/CourseService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/jaden/jpa/service/StudentService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/jaden/jpa/service/TeacherService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/jaden/jpa/utils/PropertiesUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/jaden/jpa/vo/StudentVo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/jaden/jpa/vo/TeacherVo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/jaden/jpa/vo/TeacherVo_.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/persistence-mysql.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/spring-context.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/spring-data-jpa.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/spring/event/demo/ContentEvent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/spring/event/demo/LisiListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/spring/event/demo/SunliuListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/spring/event/demo/WangwuListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/spring/event/demo/ZhangsanListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/UnitTest.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,7 +174,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/resources/spring-context.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="500">
-              <caret line="25" column="46" lean-forward="true" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+              <caret line="25" column="46" lean-forward="false" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -71,7 +199,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/uploadFail.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="320">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -81,7 +209,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/upload.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="280">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -91,17 +219,27 @@
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/uploadFiles.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
-              <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+              <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="538">
-              <caret line="36" column="28" lean-forward="true" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+              <caret line="36" column="28" lean-forward="false" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -123,7 +261,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/uploadSuccess.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="280">
-              <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+              <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -133,7 +271,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/app.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -182,6 +320,9 @@
     <replaceStrings>
       <replace>4.3</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -234,6 +375,7 @@
         <option value="$PROJECT_DIR$/src/main/java/org/jaden/jpa/controller/FileUploadController.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/jaden/jpa/controller/ViewController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/uploadFiles.jsp" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -299,6 +441,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -326,6 +469,86 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="SpringDataJPA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="springDataJPA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringDataJPA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="springDataJPA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringDataJPA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="springDataJPA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringDataJPA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="springDataJPA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringDataJPA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -996,7 +1219,7 @@
       <workItem from="1508312731141" duration="2982000" />
       <workItem from="1510122931440" duration="747000" />
       <workItem from="1512529538126" duration="24919000" />
-      <workItem from="1512957761888" duration="16264000" />
+      <workItem from="1512957761888" duration="16646000" />
     </task>
     <servers />
   </component>
@@ -1033,7 +1256,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120673000" />
+    <option name="totallyTimeSpent" value="121055000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1058,12 +1281,12 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32968238" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48527807" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293348" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19156884" sideWeight="0.525627" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21024546" sideWeight="0.47437295" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15528281" sideWeight="0.47437295" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1201,13 +1424,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/jaden/jpa/repository/StudentRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="12" column="44" lean-forward="false" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/jaden/jpa/repository/TeacherRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1493,7 +1709,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/spring-context.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
-          <caret line="25" column="46" lean-forward="true" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+          <caret line="25" column="46" lean-forward="false" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
           <folding />
         </state>
       </provider>
@@ -1501,7 +1717,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/uploadFail.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1509,7 +1725,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/upload.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1540,7 +1756,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/uploadFiles.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+          <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
           <folding />
         </state>
       </provider>
@@ -1548,7 +1764,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/uploadSuccess.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
-          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -1556,7 +1772,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/app.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1564,7 +1780,15 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="538">
-          <caret line="36" column="28" lean-forward="true" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+          <caret line="36" column="28" lean-forward="false" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
