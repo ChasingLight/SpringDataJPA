@@ -6,3 +6,4 @@
 .idea/vcs.xml
 out/artifacts/SpringDataJPA_war_exploded/WEB-INF/
 target/generated-test-sources/
+target/
