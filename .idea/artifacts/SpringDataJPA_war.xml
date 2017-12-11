@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SpringDataJPA:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SpringDataJPA.war">
+      <element id="artifact" artifact-name="SpringDataJPA:war exploded" />
+    </root>
+  </artifact>
+</component>
