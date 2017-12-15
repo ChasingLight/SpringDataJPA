@@ -21,4 +21,21 @@ public class ViewController {
     public String viewUploadFiles(){
         return "uploadFiles";
     }
+
+    @RequestMapping(value = "/booksList", method = RequestMethod.GET)
+    public String viewBooksList(){
+        return "booksList";
+    }
+
+    @RequestMapping(value = "/app", method = RequestMethod.GET)
+    public String viewApp(){
+        return "app";
+    }
+
+    @RequestMapping(value = "/bookListBoot", method = RequestMethod.GET)
+    public String viewBooksListBoot(){
+        return "booksList_bootstrap";
+    }
+
+
 }
