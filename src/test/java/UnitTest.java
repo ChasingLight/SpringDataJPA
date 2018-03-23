@@ -139,4 +139,19 @@ public class UnitTest {
 
     }
 
+
+    public static String validOrderInfo(String reqJsonStr){
+
+        String validResult = "{\n" +
+                "\t\"holderPhone\": \"18737104575\",\n" +
+                "\t\"holderName\": \"靳浩东\",\n" +
+                "\t\"holderIdType\": \"1\",\n" +
+                "\t\"holderId\": \"410185199405201510\",\n" +
+                "\t\"imeiImgPath\": \"bfe2606d-d3b1-4343-8563-9552f30e3512.jpg\"\n" +
+                "}";
+
+
+        return "";
+    }
+
 }

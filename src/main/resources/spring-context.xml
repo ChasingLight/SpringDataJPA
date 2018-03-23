@@ -22,7 +22,7 @@
 
     <!-- 自动扫描@Controller@Service@Repository注入为bean -->
     <context:component-scan base-package="org.jaden.jpa.**.controller,org.jaden.jpa.**.service,org.jaden.jpa.**.repository,
-                                          spring.event.demo.*"/>
+                                          spring.**.demo"/>
 
     <!-- 对模型视图名称的解析，即在模型视图名称添加前后缀 -->
    <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
