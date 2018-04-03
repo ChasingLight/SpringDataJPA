@@ -32,6 +32,26 @@
         <url-pattern>/</url-pattern>
     </servlet-mapping>
 
+    <!--表单重复提交demo begin-->
+    <servlet>
+        <servlet-name>FormServlet</servlet-name>
+        <servlet-class>spring.form.resubmit.FormServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>FormServlet</servlet-name>
+        <url-pattern>/FormServlet/*</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>DoFormServlet</servlet-name>
+        <servlet-class>spring.form.resubmit.DoFormServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DoFormServlet</servlet-name>
+        <url-pattern>/DoFormServlet/*</url-pattern>
+    </servlet-mapping>
+    <!--表单重复提交demo end-->
+
     <!--对请求参数使用UTF-8强制编码，否则请求中文会出现乱码-->
     <filter>
         <filter-name>encodingFilter</filter-name>

@@ -37,6 +37,24 @@
         <property name="defaultEncoding" value="UTF-8" />
     </bean>
 
+    <!-- Spring线程池配置   begin -->
+    <bean id="myTaskExecutor" class="org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor">
+        <!-- 线程池维护线程的最少数量 -->
+        <property name="corePoolSize" value="25" />
+        <!-- 允许的空闲时间 设置为1分钟-->
+        <property name="keepAliveSeconds" value="60" />
+        <!-- 线程池维护线程的最大数量 -->
+        <property name="maxPoolSize" value="30" />
+        <!-- 缓存队列 -->
+        <property name="queueCapacity" value="15" />
+        <!-- 对拒绝task的处理策略 -->
+        <property name="rejectedExecutionHandler">
+            <bean class="java.util.concurrent.ThreadPoolExecutor$CallerRunsPolicy" />
+        </property>
+        <property name="WaitForTasksToCompleteOnShutdown" value="true" />
+    </bean>
+    <!-- Spring线程池配置   end -->
+
     <import resource="spring-data-jpa.xml"/>
 
 </beans>
