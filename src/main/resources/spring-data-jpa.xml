@@ -112,9 +112,8 @@
 
     <aop:config expose-proxy="true" proxy-target-class="true">
         <aop:pointcut id="transactionPointcut"
-                      expression="execution(* org.jaden.jpa.service.*.*(..))"/>  <!--execution(* com.openmgr..service..*.*(..))-->
-        <aop:advisor pointcut-ref="transactionPointcut"
-                     advice-ref="transactionAdvice"/>
+                      expression="execution(* org.jaden..service..*.*(..))"/>  <!--execution(* com.openmgr..service..*.*(..))-->
+        <aop:advisor pointcut-ref="transactionPointcut" advice-ref="transactionAdvice"/>
     </aop:config>
 
 </beans>

@@ -14,11 +14,23 @@
     <!-- 以下为SpringMVC配置 -->
     <mvc:annotation-driven>
         <mvc:message-converters>
-            <bean class="org.springframework.http.converter.StringHttpMessageConverter"/>
-            <bean class="org.springframework.http.converter.json.MappingJackson2HttpMessageConverter"/>
+            <!-- StringHttpMessageConverter编码为UTF-8，防止乱码 -->
+           <bean class="org.springframework.http.converter.StringHttpMessageConverter">
+                <constructor-arg value="UTF-8"/>
+                <property name="writeAcceptCharset" value="false"/>  <!--用于避免响应头过大-->
+            </bean>
         </mvc:message-converters>
     </mvc:annotation-driven>
     <mvc:default-servlet-handler/>
+
+    <!--<bean class="org.springframework.http.converter.json.MappingJackson2HttpMessageConverter">
+        <property name="supportedMediaTypes">
+            <list>
+                <value>text/html;charset=UTF-8</value>
+                <value>application/json;charset=UTF-8</value>
+            </list>
+        </property>
+    </bean>-->
 
     <!-- 自动扫描@Controller@Service@Repository注入为bean -->
     <context:component-scan base-package="org.jaden.jpa.**.controller,org.jaden.jpa.**.service,org.jaden.jpa.**.repository,
