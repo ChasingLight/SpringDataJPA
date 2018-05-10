@@ -53,10 +53,19 @@
     </bean>
     <!-- druid数据源 end-->
 
+
+    <!-- jndi+tomcat数据源 begin-->
+    <bean id="dataSourceJNDI" class="org.springframework.jndi.JndiObjectFactoryBean">
+        <property name="jndiName">
+            <value>java:comp/env/jdbc/books</value>
+        </property>
+    </bean>
+    <!-- jndi+tomcat数据源 end-->
+
     <!--JPA配置-->
     <bean id="entityManagerFactory" class="org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean">
         <!--<property name="persistenceUnitName" value="demo"/>-->
-        <property name="dataSource" ref="dataSource"/>
+        <property name="dataSource" ref="dataSourceJNDI"/>
         <property name="persistenceUnitName" value="demo"/>
         <property name="jpaVendorAdapter" ref="hibernateJpaVendorAdapter"/>
         <property name="packagesToScan" value="org.jaden.jpa.**.entity"/>

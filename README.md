@@ -23,3 +23,37 @@ DAO层：BooksRepository.java  查询语句：BookSpecs.java
 运行：
 配置好tomcat，服务启动后访问：http://localhost:8084/SpringDataJPA/bookListBoot
 
+Part3. JNDI+Tomcat配置数据源
+本质：将之前配置数据源细节，放在Tomcat中的/conf/context.xml中完成！
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+
+    <Resource name="jdbc/books"
+     auth="Container"
+     type="javax.sql.DataSource"
+     url="jdbc:mysql://localhost:3306/jadenoliver_books"
+     initialSize="2"
+     maxActive="5"
+     maxIdle="20"
+     minIdle="2"
+     maxWait="20"
+     removeAbandoned="true"
+     username="root"
+     password="123456"
+     driverClassName="com.mysql.jdbc.Driver" />
+
+</Context>
+```
+然后在spring配置文件中引用即可：
+注意：java:comp/env/是必写的，后面跟上之前在tomcat配置的JNDI的名字。
+```
+    <bean id="dataSourceJNDI" class="org.springframework.jndi.JndiObjectFactoryBean">
+        <property name="jndiName">
+            <value>java:comp/env/jdbc/books</value>
+        </property>
+    </bean>
+```
+参考：
+1.[JNDI学习总结](https://www.cnblogs.com/xdp-gacl/p/3951952.html)
+2.[tomcat配置jndi+spring使用jndi数据源](https://www.cnblogs.com/symbol/p/6738416.html)
