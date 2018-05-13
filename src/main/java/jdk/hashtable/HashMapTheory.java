@@ -21,7 +21,14 @@ public class HashMapTheory {
         map.put("hao", "hao");
         map.put("dong", "dong");
         map.put(null,"xing");
-        map.put(null,null);
+        String put = map.put(null, null);
+
+        for (Map.Entry entry : map.entrySet()) {
+            String key = (String) entry.getKey();
+            String value = (String) entry.getValue();
+            int hashCode = entry.hashCode();   //存储hashcode
+            System.out.println("key:" + key + ",value:" + value + ",hashCode:" + hashCode);
+        }
 
         System.out.println(map);
     }

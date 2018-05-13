@@ -52,6 +52,28 @@
     </servlet-mapping>
     <!--表单重复提交demo end-->
 
+    <!--Servlet中session学习demo begin-->
+    <servlet>
+        <servlet-name>SessionServlet</servlet-name>
+        <servlet-class>spring.session.SessionDemo1</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>SessionServlet</servlet-name>
+        <url-pattern>/SessionDemo1/*</url-pattern>
+    </servlet-mapping>
+    <!--Servlet中session学习demo end-->
+
+    <!--Servlet中Cookie学习demo begin-->
+    <servlet>
+        <servlet-name>CookieServlet</servlet-name>
+        <servlet-class>spring.cookie.CookieDemo1</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>CookieServlet</servlet-name>
+        <url-pattern>/CookieDemo1/*</url-pattern>
+    </servlet-mapping>
+    <!--Servlet中Cookie学习demo end-->
+
     <!--对请求参数使用UTF-8强制编码，否则请求中文会出现乱码-->
     <filter>
         <filter-name>encodingFilter</filter-name>
@@ -69,5 +91,10 @@
         <filter-name>encodingFilter</filter-name>
         <url-pattern>/*</url-pattern>
     </filter-mapping>
+
+    <!-- 设置Session的有效时间:以分钟为单位-->
+    <session-config>
+        <session-timeout>1</session-timeout>
+    </session-config>
 
 </web-app>
