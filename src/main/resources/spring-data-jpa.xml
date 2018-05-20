@@ -17,7 +17,7 @@
 
     <!-- 加载资源文件 start-->
     <!--其中包含变量信息，必须在Spring配置文件的最前面加载，即第一个加载-->
-    <context:property-placeholder location="classpath:persistence-mysql.properties"/>
+    <context:property-placeholder location="classpath:persistence-mysql.properties" ignore-unresolvable="true"/>
     <!-- 加载资源文件 end-->
 
     <!--AOP自动代理 监听 start 只对当前配置文件有效-->

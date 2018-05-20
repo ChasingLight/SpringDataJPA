@@ -307,6 +307,19 @@
         </dependency>
         <!--Apache HttpClient使用  end-->
 
+        <!-- redis cache related.....start -->
+        <dependency>
+            <groupId>org.springframework.data</groupId>
+            <artifactId>spring-data-redis</artifactId><!--使用工厂bean模式管理redis-->
+            <version>1.6.0.RELEASE</version>
+        </dependency>
+        <dependency>
+            <groupId>redis.clients</groupId>
+            <artifactId>jedis</artifactId><!--通过连接池来管理，通过池对象获取jedis实例-->
+            <version>2.7.3</version>
+        </dependency>
+        <!-- redis cache related.....end -->
+
     </dependencies>
 
     <build>

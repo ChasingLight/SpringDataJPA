@@ -57,3 +57,20 @@ Part3. JNDI+Tomcat配置数据源
 参考：
 1.[JNDI学习总结](https://www.cnblogs.com/xdp-gacl/p/3951952.html)
 2.[tomcat配置jndi+spring使用jndi数据源](https://www.cnblogs.com/symbol/p/6738416.html)
+
+Part4. Spring+Jedis使用redis
+1.在pom.xml文件引入Jedis相关jar包：
+```
+        <dependency>
+            <groupId>org.springframework.data</groupId>
+            <artifactId>spring-data-redis</artifactId><!--使用工厂bean模式管理redis-->
+            <version>1.6.0.RELEASE</version>
+        </dependency>
+        <dependency>
+            <groupId>redis.clients</groupId>
+            <artifactId>jedis</artifactId><!--通过连接池来管理，通过池对象获取jedis实例-->
+            <version>2.7.3</version>
+        </dependency>
+```
+2.在spring配置文件中，配置Jedis连接池；
+3.在控制器中注入Jedis连接池，进行使用。

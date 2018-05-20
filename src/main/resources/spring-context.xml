@@ -10,6 +10,16 @@
     http://www.springframework.org/schema/mvc
     http://www.springframework.org/schema/mvc/spring-mvc-4.3.xsd">
 
+    <context:property-placeholder location="classpath:redis.properties" ignore-unresolvable="true"/>
+
+    <!--<bean class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
+        <property name="locations">
+            <list>
+                <value>classpath:redis.properties</value>
+            </list>
+        </property>
+    </bean>-->
+
 
     <!-- 以下为SpringMVC配置 -->
     <mvc:annotation-driven>
@@ -66,6 +76,30 @@
         <property name="WaitForTasksToCompleteOnShutdown" value="true" />
     </bean>
     <!-- Spring线程池配置   end -->
+
+    <!-- redis config start -->
+    <!--Jedis连接池的相关配置-->
+    <bean id="jedisPoolConfig" class="redis.clients.jedis.JedisPoolConfig">
+        <!--新版是maxTotal，旧版是maxActive-->
+        <property name="maxTotal">
+            <value>${redis.pool.maxActive}</value>
+        </property>
+        <property name="maxIdle">
+            <value>${redis.pool.maxIdle}</value>
+        </property>
+        <property name="testOnBorrow" value="true"/>
+        <property name="testOnReturn" value="true"/>
+    </bean>
+
+    <bean id="jedisPool" class="redis.clients.jedis.JedisPool">
+        <constructor-arg name="poolConfig" ref="jedisPoolConfig" />
+        <constructor-arg name="host" value="${redis.host}" />
+        <constructor-arg name="port" value="${redis.port}" type="int" />
+        <constructor-arg name="timeout" value="${redis.timeout}" type="int" />
+        <constructor-arg name="password" value="123456" /><!--显示设置密码为空-->
+        <constructor-arg name="database" value="${redis.database}" type="int" />
+    </bean>
+    <!-- redis config end -->
 
     <import resource="spring-data-jpa.xml"/>
 
