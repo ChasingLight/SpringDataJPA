@@ -16,6 +16,18 @@ public class Books {
     private Date createTime;
     private Date updateTime;
 
+    private String newParameter;
+
+
+    @Transient
+    public String getNewParameter() {
+        return newParameter;
+    }
+
+    public void setNewParameter(String newParameter) {
+        this.newParameter = newParameter;
+    }
+
     @Id
     @Column(name = "id")
     @GeneratedValue(strategy = GenerationType.IDENTITY)

@@ -68,8 +68,22 @@ public class UnitTest {
 
     @Test
     public void testCourseManyToMany(){
-        Course course = courseService.findByCId("1701");//1701 商务礼仪
+        //Course course = courseService.findByCId("1703");//1701 商务礼仪
+
+        Course course = courseService.findTestJPA("1703");
+
         System.out.println(course.toString());
+        System.out.println(JSON.toJSONString(course));
+    }
+
+    @Test
+    public void testTransientTagUsing(){
+
+        Books book = new Books();
+        book.setName("神农本草经");
+        book.setDescription("好好学习，承担医学传承");
+        Books dbBook = booksService.addBook(book);
+        System.out.println(JSON.toJSONString(dbBook));
     }
 
     @Test

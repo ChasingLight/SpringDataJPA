@@ -16,7 +16,7 @@ public class Teacher {
     private String tSubject;  //课程名称
 
     //班主任管理的学生列表---begin
-    @Transient
+    //@Transient
     private List<Student> studentList = new ArrayList<Student>();
 
     //Way1--- oweing side
