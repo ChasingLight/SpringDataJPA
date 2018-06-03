@@ -74,3 +74,7 @@ Part4. Spring+Jedis使用redis
 ```
 2.在spring配置文件中，配置Jedis连接池；
 3.在控制器中注入Jedis连接池，进行使用。
+
+Part5. Java+Hibernate校验对象字段非空
+1.使用@NotBlank和@Pattern注解来，判断字段非空和是否满足正则表达式；
+运行：jdk.ValidateVo.ValidatorTest类中的main方法即可。

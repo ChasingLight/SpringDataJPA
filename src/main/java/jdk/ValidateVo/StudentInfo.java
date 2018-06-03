@@ -1,8 +1,12 @@
 package jdk.ValidateVo;
 
+import jdk.ValidateVo.customAnnotation.Money;
 import org.hibernate.validator.constraints.NotBlank;
 
+import javax.validation.Valid;
+import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Pattern;
+import java.util.List;
 
 /**
  * Created by JadenOliver on 2018/5/21.
@@ -24,6 +28,14 @@ public class StudentInfo {
 
     @NotBlank(message="学校不能为空")
     private String school;
+
+    @NotNull
+    @Money  //自定义注解，自定义校验方式。
+    //@Pattern(regexp = "^\\d+\\.\\d{1,2}?$", message = "金额格式不正确")  //说明：@Pattern只能用在String上，否则报异常：No validator could be found for type: java.lang.Double
+    private Double money;
+
+    @Valid   //亲测：如果不在关联属性上设置@Valid标签，便不会校验关联实体的属性值。
+    private List<ParentVo> parents;  //关联实体校验
 
     public String getUserName() {
         return userName;
@@ -55,6 +67,22 @@ public class StudentInfo {
 
     public void setSchool(String school) {
         this.school = school;
+    }
+
+    public Double getMoney() {
+        return money;
+    }
+
+    public void setMoney(Double money) {
+        this.money = money;
+    }
+
+    public List<ParentVo> getParents() {
+        return parents;
+    }
+
+    public void setParents(List<ParentVo> parents) {
+        this.parents = parents;
     }
 }
 
