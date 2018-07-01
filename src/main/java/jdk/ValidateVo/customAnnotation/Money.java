@@ -14,7 +14,7 @@ import javax.validation.Payload;
 @Constraint(validatedBy=MoneyValidator.class)
 public @interface Money {
 
-    String message() default"金额格式要求：小数点后最多保留两位有效数字";
+    String message() default "金额格式要求：小数点后最多保留两位有效数字";
 
     Class<?>[] groups() default {};
 
