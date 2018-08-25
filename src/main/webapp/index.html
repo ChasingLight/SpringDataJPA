@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ajax验证后端接口</title>
+    <style>
+        h1 {
+            color: #1f242e;
+            text-align: center;
+            font-weight: bold;
+        }
+        h1:after {
+            content: '';
+            display: block;
+            margin: auto;
+            width:8rem;
+            height: 3px;
+            background: #7bffbe;
+        }
+
+        hr {
+            visibility: hidden;
+        }
+
+        .W100H200 {
+            width: 100%;
+            height: 200px;
+        }
+
+
+    </style>
+</head>
+<body>
+    <h1>验证接口</h1>
+
+    <span>url:</span><input type="text" name="url" id="url" style="width: 100%;height: 2rem" class="status"/>
+    <br>
+    <hr>
+    <br>
+    <span>post/get:</span>
+    <select id="requestTypeSelect" style="width: 100%;" class="status">
+        <option value="POST" selected="selected">POST</option>
+        <option value="GET">GET</option>
+    </select>
+    <br>
+    <hr>
+    <br>
+    <span>ajax:</span><textarea name="content" id="content" class="W100H200 status"></textarea>
+    <br>
+    <hr>
+    <br>
+    <span>result:</span>
+    <textarea name="result" id="result" class="W100H200 status"></textarea>
+
+
+    <button onclick="post()" class="status" style="width: 50%;height: 2rem">提交</button>
+
+</body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+    function post() {
+        var url = $('#url').val();
+        var content = $('#content').val();
+        var requestType = $('#requestTypeSelect').val();
+        console.log(url);
+        console.log(content);
+        $.ajax(
+            {
+                url: url,
+                'data': content,
+                'type': requestType,
+                //'processData': false,  //processData默认是true，将请求参数进行序列化。它会调用返回值:StringjQuery.param把{ width:1680, height:1050 }参数对象序列化为width=1680&height=1050这样的字符串。
+                'contentType': 'application/json', //typically 'application/x-www-form-urlencoded', but the service you are calling may expect 'text/json'... check with the service to see what they expect as content-type in the HTTP header.
+                success: function (msg) {
+                    $('.status').css("border","2px #7bffbe solid");
+                    $('#result').val(JSON.stringify(msg));
+                },
+                error: function () {
+                    $('.status').css("border","2px red solid");
+                }
+            }
+        );
+    }
+
+</script>
+</html>
