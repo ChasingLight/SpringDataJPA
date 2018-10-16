@@ -64,7 +64,9 @@ public class HttpClientTestController {
     }
 
 
-    // 获取request请求报文
+    // 获取request请求报文-------
+    // 使用到了：1.适配器模式：Reader(目标对象)---InputSteamReader(适配者)---InputSteam(被适配者)
+    //         2.装饰模式：InputSteamReader---BufferedReader(装饰器实现者对象)
     public String getReqeustData(HttpServletRequest request) {
         String data = null;
         try {

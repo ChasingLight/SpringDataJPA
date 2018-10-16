@@ -30,4 +30,10 @@ public class TeacherService {
         return dbTeacher;
     }//end method
 
+
+    public int updateTeacherNameByTid(String newTname, String tId){
+
+        return teacherRepository.updateTeacherNameById(newTname, tId);
+    }
+
 }

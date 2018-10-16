@@ -1,0 +1,18 @@
+{
+	"appid": "00095975",
+	"asinfo": "551581063003R4S:01:4.0;",
+	"body": "天翼ProductBody",
+	"cusid": "551581063003RSM",
+	"limit_pay": "no_credit",
+	"notify_url": "http://fx.ipansuan.com/splitbill/payResult/pay?appKey=allinpay888",
+	"paytype": "A01",
+	"randomstr": "63255261",
+	"remark": "天翼ProductRemark",
+	"reqsn": "20180828101132",
+	"sign": "fd79b923bbcde74e38c1810ac4fd6ae7",
+	"trxamt": "1000",
+	"version": "11"
+}
+
+
+{"trxid":"111870950000313403","sign":"07FD7168966A9D81F4D784A3C4006C7E","randomstr":"669873350591","retcode":"SUCCESS","trxstatus":"0000","reqsn":"228dc16382a74027bd4db531c6a8a272","appid":"00095975","payinfo":"https://qr.alipay.com/bax07169h5lv47ad0zks60fe","cusid":"551581063003RSM"}

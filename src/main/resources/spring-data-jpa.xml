@@ -103,7 +103,7 @@
     <tx:advice id="transactionAdvice" transaction-manager="transactionManager">
         <!-- 配置详细事务处理语义 -->
         <tx:attributes>
-            <tx:method name="add*" propagation="REQUIRED"/>
+            <tx:method name="add*" propagation="REQUIRED" rollback-for="Exception"/> <!--MyCheckedException.class不行-->
             <tx:method name="save*" propagation="REQUIRED"/>
             <tx:method name="insert*" propagation="REQUIRED"/>
             <tx:method name="del*" propagation="REQUIRED"/>
@@ -114,14 +114,13 @@
             <tx:method name="query*" read-only="true" propagation="REQUIRED"/>
             <tx:method name="find*" read-only="true" propagation="REQUIRED"/>
 
-            <tx:method name="*" propagation="SUPPORTS"/>
-            <tx:method name="*" rollback-for="Exception"/>
+            <tx:method name="*" propagation="SUPPORTS" read-only="true" rollback-for="Exception.class" />
         </tx:attributes>
     </tx:advice>
 
-    <aop:config expose-proxy="true" proxy-target-class="true">
+    <aop:config>  <!--expose-proxy="true" proxy-target-class="true"-->
         <aop:pointcut id="transactionPointcut"
-                      expression="execution(* org.jaden..service..*.*(..))"/>  <!--execution(* com.openmgr..service..*.*(..))-->
+                      expression="execution(* org.jaden..service..*.*(..))"/>
         <aop:advisor pointcut-ref="transactionPointcut" advice-ref="transactionAdvice"/>
     </aop:config>
 

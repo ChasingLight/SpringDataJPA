@@ -10,12 +10,16 @@ public class ValidatorTest {
         long startTime = System.currentTimeMillis();
         System.out.println("===============耗时(毫秒)=" + (System.currentTimeMillis() - startTime));
 
-        studentInfo.setUserName("小明");
-        studentInfo.setAge("23");
+        String name = "欧阳浩东";
+
+        studentInfo.setUserName(name);
+        studentInfo.setAge("24");
         studentInfo.setBirthday("2016-09-01");
         studentInfo.setSchool("清华大学");
 
         studentInfo.setMoney(1.0);  //自定义金额注解校验规则
+
+        studentInfo.setIdCard("410185199405201510");   //
 
         //关联父母实体
         ParentVo father = new ParentVo();

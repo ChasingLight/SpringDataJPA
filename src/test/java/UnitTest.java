@@ -5,14 +5,22 @@ import org.jaden.jpa.service.BooksService;
 import org.jaden.jpa.service.CourseService;
 import org.jaden.jpa.service.StudentService;
 import org.jaden.jpa.service.TeacherService;
+import org.jaden.jpa.service.transactionNoRollback.TransNoRollbackService;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
+import org.springframework.stereotype.Service;
+import org.springframework.test.annotation.Commit;
+import org.springframework.test.annotation.Rollback;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
+
+import org.springframework.transaction.annotation.Transactional;
 import spring.event.demo.ContentEvent;
+
+//import javax.transaction.Transactional;
 
 import java.util.ArrayList;
 import java.util.Date;
@@ -41,6 +49,23 @@ public class UnitTest {
 
     @Autowired
     private ApplicationContext applicationContext;
+
+    @Autowired
+    private TransNoRollbackService transNoRollbackService;
+
+
+    @Test
+    public void testSpringUnitTestAutoRollback(){
+        int updateRowCount = teacherService.updateTeacherNameByTid("卡卡西上忍","674");
+        System.out.println("更新的记录条数：" + updateRowCount);
+    }
+
+    @Test
+    @Transactional
+    public void testSpringUnitTestAutoRollback2(){
+        int updateRowCount = teacherRepository.updateTeacherNameById("卡卡西大老师","674");
+        System.out.println("更新的记录条数：" + updateRowCount);
+    }
 
 
     @Test
@@ -167,5 +192,6 @@ public class UnitTest {
 
         return "";
     }
+
 
 }

@@ -1,6 +1,9 @@
 import com.alibaba.fastjson.JSONObject;
 import jdk.ValidateVo.LoginVo;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * Created by JadenOliver on 2018/5/21.
  */
@@ -27,6 +30,25 @@ public class Test {
         String reqJsonStr = null;
         LoginVo loginVo = JSONObject.parseObject(reqJsonStr, LoginVo.class);
         System.out.println(loginVo);
+
+        List<Long> a = new ArrayList<>();
+        a.add(1L);
+        a.add(2L);
+        a.add(3L);
+
+        List<Long> b = new ArrayList<>();
+        b.add(1L);
+        b.add(2L);
+        b.add(3L);
+        b.add(4L);
+        b.add(5L);
+        b.add(6L);
+
+        boolean result = a.removeAll(b);
+        System.out.println(a);
+
+
+
 
     }
 }

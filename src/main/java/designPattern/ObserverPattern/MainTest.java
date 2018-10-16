@@ -13,15 +13,16 @@ public class MainTest {
 
         StockObserver observer2 = new StockObserver(stockGrabber);
 
+
         stockGrabber.setIbmPrice(21);
-        stockGrabber.setApplePrice(22);
+        /*stockGrabber.setApplePrice(22);
         stockGrabber.setGooglePrice(23);
 
         stockGrabber.unregister(observer1);
 
         stockGrabber.setIbmPrice(31);
         stockGrabber.setApplePrice(32);
-        stockGrabber.setGooglePrice(33);
+        stockGrabber.setGooglePrice(33);*/
 
 
     }

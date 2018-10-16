@@ -67,7 +67,9 @@
         $.ajax(
             {
                 url: url,
-                'data': content,
+                'data': {
+                    "name",""
+                },
                 'type': requestType,
                 //'processData': false,  //processData默认是true，将请求参数进行序列化。它会调用返回值:StringjQuery.param把{ width:1680, height:1050 }参数对象序列化为width=1680&height=1050这样的字符串。
                 'contentType': 'application/json', //typically 'application/x-www-form-urlencoded', but the service you are calling may expect 'text/json'... check with the service to see what they expect as content-type in the HTTP header.

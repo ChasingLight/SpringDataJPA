@@ -1,5 +1,6 @@
 package jdk.ValidateVo;
 
+import jdk.ValidateVo.customAnnotation.IdCard;
 import jdk.ValidateVo.customAnnotation.Money;
 import org.hibernate.validator.constraints.NotBlank;
 
@@ -14,11 +15,16 @@ import java.util.List;
 public class StudentInfo {
 
     @NotBlank(message="用户名不能为空")
+    @Pattern(regexp="^[\u4E00-\u9FA5]{1,5}$",message="用户名必须为中文且最多5位")
     private String userName;
 
     @NotBlank(message="年龄不能为空")
     @Pattern(regexp="^[0-9]{1,2}$",message="年龄是整数")
     private String age;
+
+    @NotBlank(message="身份证号码不能为空")
+    @IdCard
+    private String idCard;
 
     /**
      * 如果是空，则不校验，如果不为空，则校验
@@ -36,6 +42,14 @@ public class StudentInfo {
 
     @Valid   //亲测：如果不在关联属性上设置@Valid标签，便不会校验关联实体的属性值。
     private List<ParentVo> parents;  //关联实体校验
+
+    public String getIdCard() {
+        return idCard;
+    }
+
+    public void setIdCard(String idCard) {
+        this.idCard = idCard;
+    }
 
     public String getUserName() {
         return userName;
