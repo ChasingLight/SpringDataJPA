@@ -11,6 +11,14 @@
         <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
     </listener>
 
+    <!--将Session创建销毁监听器，放置到web.xml中-->
+    <listener>
+        <listener-class>spring.session.SessionListener</listener-class>
+    </listener>
+    <listener>
+        <listener-class>spring.session.AnotherSessionListener</listener-class>
+    </listener>
+
     <!--spring框架配置-->
     <context-param>
         <param-name>contextConfigLocation</param-name>

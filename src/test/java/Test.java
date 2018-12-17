@@ -48,7 +48,16 @@ public class Test {
         System.out.println(a);
 
 
+        List<String> list = new ArrayList<String>();
+        list.add("1");
+        list.add("2");
+        for (String item : list) {
+            if ("1".equals(item)){
+                list.remove(item);
+            }
+        }
 
+        System.out.println(list);
 
     }
 }
