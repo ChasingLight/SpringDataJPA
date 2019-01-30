@@ -1,0 +1,80 @@
+idea激活server：
+http://idea.iteblog.com/key.php
+或者
+http://intellij.mandroid.cn/
+或者
+http://idea.imsxm.com/
+
+
+1.alt + insert 
+生成get和set方法、构造方法等
+帮助你优化代码，提示接口未实现的方法等
+
+2.双击shift  
+全局查找一切东西
+
+3.alt + F7  
+找到某个变量、方法、类 被引用的所有地方
+相当于Eclipse的ctrl + alt + H
+
+4.ctrl + R
+在当前文件替换指定内容
+
+5.ctrl + D
+复制光标所在行
+
+6.ctrl + shift + Backspace
+跳转到最近编辑的位置
+相当于Eclipse的ctrl + Q
+
+7.ctrl + Y
+删除某行
+类似于Eclipse的ctrl + D
+
+8.ctrl + F12
+查看某个文件的OutLine总览
+类似于Eclipse的ctrl + O 也可以模糊匹配某个属性！！！
+
+9.ctrl + shift + F12
+最大化/最小化 当前窗口
+
+10.ctrl + alt + L
+格式化代码
+
+11.ctrl + W
+选中当前字--连续点击几次有惊喜哦！
+
+12.Ctrl + Shift + V
+调出最近复制的N份内容
+
+13.Ctrl + Shift + Enter
+补全当前行：补全最后的;号，然后跳转到下一行
+
+14.ctrl + shift + U
+大小写转换
+
+15.shift + F6
+重命名---重构文件
+
+16.常用代码生成
+fori + Tab ---  生成for循环
+sout + Tab ---  生成Sysetm.out.println();
+psvm + Tab ---  生成main函数
+todo + Tab ---  下一步开发的位置
+
+17.ctrl + “-” 和  ctrl + “+”
+方法体折叠  方法体展开
+
+18.ctrl + shift + 1~9
+添加/移除 代码书签
+---跳转到对应书签位置  ctrl + 1~9
+
+19.ctrl + shift + f
+全局查找，相当于eclipse的ctrl + H
+
+20.ctrl + G
+跳转到某行，相当于eclipse的ctrl + L
+
+
+
+

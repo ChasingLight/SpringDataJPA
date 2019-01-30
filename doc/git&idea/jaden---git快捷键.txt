@@ -1,0 +1,100 @@
+项目中使用频次高的git命令：
+1>查看所有分支   git branch  
+2>从master创建dev分支   git checkout -b dev master  
+3>从dev分支切换到master分支  git checkout master
+4>master分支对dev分支进行合并   git merge --no-ff dev
+说明：--no-ff，会执行正常合并。 
+5>删除分支：git branch -d feature-x
+
+CKYW001
+
+
+git stash
+
+保存当前的工作进度。会分别对暂存区和工作区的状态进行保存
+
+git stash save "message..."
+
+这条命令实际上是第一条 git stash 命令的完整版
+
+git stash list
+
+显示进度列表。此命令显然暗示了git stash 可以多次保存工作进度，并用在恢复时候进行选择
+
+git stash pop [--index] [<stash>]
+
+如果不使用任何参数，会恢复最新保存的工作进度，并将恢复的工作进度从存储的工作进度列表中清除。
+
+如果提供参数（来自 git stash list 显示的列表），则从该 <stash> 中恢复。恢复完毕也将从进度列表中删除 <stash>。
+
+选项--index 除了恢复工作区的文件外，还尝试恢复暂存区。
+
+git stash apply [--index] [<stash>]
+
+除了不删除恢复的进度之外，其余和 git stash pop 命令一样
+
+git stash clear
+
+删除所有存储的进度
+
+
+1.git Bash可以运行
+
+2.git init
+此命令将当前所在的目录变成Git可以管理的仓库。
+会展示 Initialized empty Git repository in E:/GGGitLearning/.git/
+
+3.git add 
+此命令告知Git把文件添加到仓库。
+eg：git add readme.txt
+
+4.git commit -m "xxxx"
+此命令告知Git把文件提交到仓库, 其中 -m 后面输入的是本次提交说明。
+eg：git commit -m "wrote a readme file"
+
+说明：git add命令实际上就是把要提交的所有修改放到暂存区（Stage）
+      而 git commit就可以一次性把暂存区的所有修改提交到分支（默认是HEAD指针所指向的master分支）。
+
+5.git status
+此命令随时掌握工作区的状态。
+
+6.git diff
+此命令查看修改的内容。
+
+7.git reset --hard commit_id
+此命令允许我们在各个版本之间切换。
+eg：git reset --hard 0052bdd 
+或  git reset --hard HEAD^
+
+说明：HEAD指向当前版本，HEAD^代表上一个版本。
+
+8.git log
+此命令查看提交历史，以便确认回退那个版本。
+
+9.git reflog
+查看命令历史。
+
+10.git tag -a <tagname> -m "blablabla..."
+可以指定标签信息
+
+11.---git stash用于保存和恢复工作进度
+
+git stash
+保存当前的工作进度。会分别对暂存区和工作区的状态进行保存
+
+git stash save "message..."
+这条命令实际上是第一条 git stash 命令的完整版
+
+git stash list
+显示进度列表。此命令显然暗示了git stash 可以多次保存工作进度，并用在恢复时候进行选择
+
+git stash pop [--index] [<stash>]
+如果不使用任何参数，会恢复最新保存的工作进度，并将恢复的工作进度从存储的工作进度列表中清除。
+如果提供参数（来自 git stash list 显示的列表），则从该 <stash> 中恢复。恢复完毕也将从进度列表中删除 <stash>。
+选项--index 除了恢复工作区的文件外，还尝试恢复暂存区。
+
+git stash apply [--index] [<stash>]
+除了不删除恢复的进度之外，其余和 git stash pop 命令一样
+
+git stash clear
+删除所有存储的进度
