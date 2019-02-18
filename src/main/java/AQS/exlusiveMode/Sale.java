@@ -9,7 +9,7 @@ class Sale  implements Runnable {
     @Override
     public void run() {
         while(true){
-            //mutexLock.lock();
+            mutexLock.lock();
 
             try{
                 if (count > 0){
@@ -26,7 +26,7 @@ class Sale  implements Runnable {
                 e.printStackTrace();
             }
             finally{
-                //mutexLock.unlock();
+                mutexLock.unlock();
             }
         }
     }

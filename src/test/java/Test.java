@@ -1,6 +1,8 @@
 import com.alibaba.fastjson.JSONObject;
 import jdk.ValidateVo.LoginVo;
 
+import java.net.URLDecoder;
+import java.net.URLEncoder;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -58,6 +60,27 @@ public class Test {
         }
 
         System.out.println(list);
+
+        String str = "1,2,3,,";
+        String[] elements = str.split(",");
+        System.out.println("切分得到的字符串数组长度：" + elements.length);
+        for (String temp : elements){
+            System.out.println(temp);
+        }
+
+        try{
+            String result2 = URLEncoder.encode("靳浩东()靳浩东","UTF-8");
+            String result3 = URLDecoder.decode(result2, "UTF-8");
+
+            System.out.println(result2);
+            System.out.println(result3);
+        }catch (Exception e){
+
+        }
+
+
+
+
 
     }
 }

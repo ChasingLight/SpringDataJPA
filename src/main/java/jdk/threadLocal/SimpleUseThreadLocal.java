@@ -16,6 +16,9 @@ public class SimpleUseThreadLocal {
             t1.set("t1---我的值");
         }
 
+//        t1.set("jaden");
+//        System.out.println(t1.get());
+
         System.out.println(t1.get());
 
         if (t2.get() == null){
