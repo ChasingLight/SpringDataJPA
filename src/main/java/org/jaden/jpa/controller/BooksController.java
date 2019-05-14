@@ -108,7 +108,8 @@ public class BooksController {
     @RequestMapping(value = "/getOne", method = RequestMethod.POST)
     @ResponseBody
     public Books findBooksById(@RequestParam("id") String key){
-        return booksRepository.findOne(Integer.parseInt(key));
+        //return booksRepository.findOne(Integer.parseInt(key));
+        return null;
     }
 
     @RequestMapping(value = "/edit", method = RequestMethod.POST)

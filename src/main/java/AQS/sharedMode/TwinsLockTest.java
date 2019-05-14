@@ -1,12 +1,11 @@
 package AQS.sharedMode;
 
-import org.testng.annotations.Test;
 
 import java.util.concurrent.locks.Lock;
 
 public class TwinsLockTest {
 
-    @Test
+
     public void test() {
         final Lock lock = new TwinsLock();
 
