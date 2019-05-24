@@ -27,6 +27,7 @@
         <commons.io.version>2.4</commons.io.version>
         <jackson.version>2.5.4</jackson.version>
         <httpclient.version>4.5.1</httpclient.version>
+        <mapstruct.version>1.2.0.Final</mapstruct.version>
     </properties>
 
     <profiles>
@@ -352,6 +353,18 @@
             <groupId>ma.glasnost.orika</groupId>
             <artifactId>orika-core</artifactId>
             <version>1.4.6</version>
+        </dependency>
+
+        <!-- mapstruct:javabean transfer solution -->
+        <dependency>
+            <groupId>org.mapstruct</groupId>
+            <artifactId>mapstruct-jdk8</artifactId>
+            <version>${mapstruct.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.mapstruct</groupId>
+            <artifactId>mapstruct-processor</artifactId>
+            <version>${mapstruct.version}</version>
         </dependency>
 
     </dependencies>

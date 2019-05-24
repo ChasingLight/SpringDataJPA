@@ -6,133 +6,37 @@
     </artifacts-to-build>
   </component>
   <component name="BookmarkManager">
-    <bookmark url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java" line="197" mnemonic="2" />
     <bookmark url="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/TwinLockTest/Test.java" line="5" mnemonic="1" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18f7762c-fbf8-4874-9510-ae8fd8e76629" name="Default" comment="1.上传  2018-12-17 &#10;jinhd">
-      <change afterPath="$PROJECT_DIR$/src/main/java/AQS/exlusiveMode/threeThreadTest/ThreeThreadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/AtomicIntegerTest/AddCountThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/AtomicIntegerTest/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/deadLockTest/DealThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/deadLockTest/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/setNewPropertiesLockOne/MyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/setNewPropertiesLockOne/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/setNewPropertiesLockOne/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/setNewPropertiesLockOne/Userinfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/setNewStringTwoLock/MyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/setNewStringTwoLock/MyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/setNewStringTwoLock/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/startAndRunMethod/JadenThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/startAndRunMethod/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/synLockIn_1/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/synLockIn_1/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/synLockIn_1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/synMoreObjectStaticOneLock/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/synMoreObjectStaticOneLock/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/synMoreObjectStaticOneLock/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/synMoreObjectStaticOneLock/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/synNotExtends/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/synNotExtends/Sub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/synNotExtends/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/synNotExtends/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/synNotExtends/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/synchronizedMethodLockObject/MyObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/synchronizedMethodLockObject/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/synchronizedMethodLockObject/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/synchronizedMethodLockObject/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/synchronizedUpdateNewValue/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/synchronizedUpdateNewValue/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/synchronizedUpdateNewValue/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/synchronizedUpdateNewValue/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/t1/HasSelfPrivateNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/t1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/t1/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/t1/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/t16/MyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/t16/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/t16_1/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/t16_1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/t16_1/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/t16_1/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/t7/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/t7/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/t7/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/t7/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/test3/MyObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/test3/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/test3/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/test3/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/test3/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/throwExceptionNoLock/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/throwExceptionNoLock/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/throwExceptionNoLock/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/throwExceptionNoLock/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/volatileTestThread/MyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/volatileTestThread/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/joinTest2/MainThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/joinTest2/SubThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/joinTest2/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/join_sleep_2/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/join_sleep_2/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/join_sleep_2/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/join_sleep_2/ThreadC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/pipeReaderWriter/ReadData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/pipeReaderWriter/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/pipeReaderWriter/WriteData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/test1/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/waitInterrupteException/MyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/waitInterrupteException/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/waitInterrupteException/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/waitReleaseLock/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/waitReleaseLock/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/waitReleaseLock/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/waitReleaseLock/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/wait_notify_insert_test/BackupA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/wait_notify_insert_test/BackupB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/wait_notify_insert_test/DBTools.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/wait_notify_insert_test/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/Fair_noFair_test/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/Fair_noFair_test/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/Fair_noFair_test/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/MustUseMoreCondition_OK/MyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/MustUseMoreCondition_OK/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/MustUseMoreCondition_OK/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/MustUseMoreCondition_OK/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/MutexLockTest/Mutex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/MutexLockTest/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/MutexLockTest/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/ReadWriteLockBegin4/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/ReadWriteLockBegin4/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/ReadWriteLockBegin4/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/ReadWriteLockBegin4/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/ReentrantLockTest/MyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/ReentrantLockTest/MyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/ReentrantLockTest/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/TwinLockTest/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/UseConditionWaitNotifyOK/MyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/UseConditionWaitNotifyOK/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/UseConditionWaitNotifyOK/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap6/singleton_3/MyObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap6/singleton_3/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap6/singleton_3/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap6/singleton_7/MyObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap6/singleton_7/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap6/singleton_7/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap6/singleton_8/MyObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap6/singleton_8/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap6/singleton_8/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FinallyReturn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JadenTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AQS/exlusiveMode/MutexTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AQS/exlusiveMode/MutexTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AQS/exlusiveMode/Sale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AQS/exlusiveMode/Sale.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jdk/threadLocal/SimpleUseThreadLocal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jdk/threadLocal/SimpleUseThreadLocal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test.java" afterDir="false" />
+    <list default="true" id="18f7762c-fbf8-4874-9510-ae8fd8e76629" name="Default" comment="1.上传-将pom中&lt;spring-data-jpa-version&gt;升高  2019-05-14  jinhd">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/mapstruct/BaseMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/mapstruct/TestMapStruct.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/mapstruct/food/FoodDto.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/mapstruct/food/FoodMysql.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/mapstruct/food/FoodMysqlMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/mapstruct/food/FoodSqlServer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/mapstruct/food/FoodSqlServerMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/mapstruct/order/OrderDto.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/mapstruct/order/OrderMysql.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/mapstruct/order/OrderMysqlMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/mapstruct/order/OrderSqlServer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/mapstruct/order/OrderSqlServerMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/orika/Dest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/orika/DestStu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/orika/Source.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/orika/SourceStu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/orika/util/EntityMapper.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/orika/StudentMysql.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/orika/StudentSqlServer.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/orika/TestOrika.java" afterPath="$PROJECT_DIR$/src/main/java/orika/TestOrika.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,38 +64,93 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/MutexLockTest/Mutex.java">
+      <file leaf-file-name="OrderMysql.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mapstruct/order/OrderMysql.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state relative-caret-position="42">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FoodSqlServer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mapstruct/food/FoodSqlServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FoodMysql.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mapstruct/food/FoodMysql.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FoodDto.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mapstruct/food/FoodDto.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrderSqlServerMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mapstruct/order/OrderSqlServerMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#447#448#0" expanded="true" />
-                <element signature="e#493#494#0" expanded="true" />
-                <element signature="e#1192#1193#0" expanded="true" />
-                <element signature="e#1244#1245#0" expanded="true" />
-                <element signature="method#tryLock#1;class#Mutex#0" />
-                <element signature="method#lockInterruptibly#0;class#Mutex#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/TwinLockTest/Test.java">
+      <file leaf-file-name="OrderMysqlMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mapstruct/order/OrderMysqlMapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="189">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/MutexLockTest/Service.java">
+      <file leaf-file-name="FoodMysqlMapper.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mapstruct/food/FoodMysqlMapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+            <state relative-caret-position="273">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FoodSqlServerMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mapstruct/food/FoodSqlServerMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mapstruct/BaseMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="24" column="11" lean-forward="false" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -199,78 +158,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java">
+      <file leaf-file-name="TestMapStruct.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mapstruct/TestMapStruct.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="585" column="61" lean-forward="true" selection-start-line="585" selection-start-column="61" selection-end-line="585" selection-end-column="61" />
+            <state relative-caret-position="273">
+              <caret line="13" column="52" lean-forward="true" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
               <folding>
-                <element signature="e#26818#26819#0" expanded="true" />
-                <element signature="e#26858#26859#0" expanded="true" />
-                <element signature="class#WriteLock#0;class#ReentrantReadWriteLock#0" />
+                <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReadWriteLock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="640">
-              <caret line="124" column="20" lean-forward="true" selection-start-line="124" selection-start-column="20" selection-end-line="124" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/MutexLockTest/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding>
-                <element signature="e#229#390#0" expanded="true" />
-                <element signature="e#389#390#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/ReadWriteLockBegin4/Service.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/ReadWriteLockBegin4/ThreadA.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-              <folding>
-                <element signature="e#162#163#0" expanded="true" />
-                <element signature="e#200#201#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/ReadWriteLockBegin4/ThreadB.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/ReadWriteLockBegin4/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -284,22 +179,15 @@
         <option value="Jsp File" />
         <option value="Interface" />
         <option value="HTML File" />
-        <option value="FxmlFile" />
         <option value="Singleton" />
+        <option value="Enum" />
         <option value="Class" />
+        <option value="FxmlFile" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>run(</find>
-      <find>threadLocals</find>
-      <find>expungeStaleEntries</find>
-      <find>zero</find>
-      <find>getCount</find>
-      <find>acquire(int arg)</find>
-      <find>releaseShared</find>
-      <find>tryAcquire(</find>
       <find>acquire(</find>
       <find>tryAcquire</find>
       <find>compareAndSetState</find>
@@ -322,6 +210,14 @@
       <find>Object lock</find>
       <find>Sub subRef</find>
       <find>---线程Thread</find>
+      <find>Calendar</find>
+      <find>return</find>
+      <find>enum</find>
+      <find>1.11.</find>
+      <find>common</find>
+      <find>common =</find>
+      <find>contextClassLoader =</find>
+      <find>file:/$PROJECT_DIR$/target/classes/</find>
     </findStrings>
     <replaceStrings>
       <replace>4.3</replace>
@@ -332,10 +228,18 @@
       <replace>Sub subRef</replace>
       <replace>Task task</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>D:\Users\hd.jin\gitProject\SpringDataJPA\src\main</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/java/jdk/treeSetHashSet/TerminalUserVo.java" root0="SKIP_INSPECTION" />
@@ -343,59 +247,65 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/pipeReaderWriter/WriteData.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/pipeReaderWriter/ReadData.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/pipeReaderWriter/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/wait_notify_insert_test/BackupA.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/wait_notify_insert_test/BackupB.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/wait_notify_insert_test/DBTools.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/wait_notify_insert_test/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/t16/MyRunnable.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/t16_1/MyRunnable.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/t16/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/t16_1/ThreadA.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/t16_1/ThreadB.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/t16_1/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/t16_1/Service.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap6/singleton_3/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap6/singleton_3/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap6/singleton_3/MyObject.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap6/singleton_7/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap6/singleton_7/MyObject.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap6/singleton_7/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap6/singleton_8/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap6/singleton_8/MyObject.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/joinTest2/SubThread.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/join_sleep_2/ThreadB.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/join_sleep_2/ThreadC.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/joinTest2/MainThread.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/joinTest2/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/join_sleep_2/ThreadA.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/join_sleep_2/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/ReentrantLockTest/MyRunnable.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/ReentrantLockTest/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/ReentrantLockTest/MyService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/UseConditionWaitNotifyOK/ThreadA.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/UseConditionWaitNotifyOK/MyService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/UseConditionWaitNotifyOK/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/MustUseMoreCondition_OK/MyService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/MustUseMoreCondition_OK/ThreadA.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/MustUseMoreCondition_OK/ThreadB.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/MustUseMoreCondition_OK/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/Fair_noFair_test/MyThread.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/Fair_noFair_test/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/Fair_noFair_test/Service.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/MutexLockTest/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/ReadWriteLockBegin4/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/ReadWriteLockBegin4/Service.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/ReadWriteLockBegin4/ThreadA.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/ReadWriteLockBegin4/ThreadB.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/MutexLockTest/Service.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/MutexLockTest/Mutex.java" />
         <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/TwinLockTest/TwinLockTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/TwinLockTest/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jdk/OptionalDemo/OptionalMainTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/meJson" />
+        <option value="$PROJECT_DIR$/src/test/java/ddd" />
+        <option value="$PROJECT_DIR$/src/main/java/jdk/lambda/UseLambda.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jdk/completableFuture/CompletableFutureDemoTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jdk/Enum/LogLevel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jdk/jdkeight/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jdk/completableFuture/LambdaUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jdk/completableFuture/CompletableFutureExceptionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/designPattern/multi/HtlOrdContactInfoShard.java" />
+        <option value="$PROJECT_DIR$/src/main/java/designPattern/multi/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/java/designPattern/multi/StudentShard.java" />
+        <option value="$PROJECT_DIR$/src/main/java/designPattern/multi/StudentMysql.java" />
+        <option value="$PROJECT_DIR$/src/main/java/designPattern/multi/StudentSqlServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/designPattern/multi/SuperStudent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/designPattern/multi/TestUsing.java" />
+        <option value="$PROJECT_DIR$/src/main/java/designPattern/multi/BaseMSDto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/orika/StudentSqlServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/AQS/sharedMode/TwinsLockTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/jaden/jpa/controller/BooksController.java" />
+        <option value="$USER_HOME$/.m2/repository/ma/glasnost/orika/orika-core/1.4.6/orika-core-1.4.6.jar!/ma/glasnost/orika/BoundMapperFacade.class" />
+        <option value="$PROJECT_DIR$/src/main/java/orika/EntityMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/orika/util/EntityMapper.java" />
+        <option value="$USER_HOME$/.m2/repository/ma/glasnost/orika/orika-core/1.4.6/orika-core-1.4.6.jar!/ma/glasnost/orika/MapperFacade.class" />
+        <option value="$USER_HOME$/.m2/repository/ma/glasnost/orika/orika-core/1.4.6/orika-core-1.4.6.jar!/ma/glasnost/orika/impl/MapperFacadeImpl.class" />
+        <option value="$PROJECT_DIR$/src/main/java/orika/SourceStu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/orika/DestStu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/orika/Dest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/orika/Source.java" />
+        <option value="$PROJECT_DIR$/src/main/java/orika/TestOrika.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapstruct/Dest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapstruct/Source.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/mapstruct/Order.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapstruct/Food.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapstruct/FoodDto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapstruct/BaseConvert.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapstruct/OrderMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapstruct/OrderMysql.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapstruct/food/FoodDto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapstruct/order/OrderMysql.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapstruct/order/OrderMysqlMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapstruct/order/OrderMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapstruct/BaseMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapstruct/TestMapStruct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapstruct/food/FoodSqlServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapstruct/food/FoodMysql.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapstruct/food/FoodSqlServerMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mapstruct/food/FoodMysqlMapper.java" />
       </list>
     </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -410,10 +320,19 @@
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="dev" />
+      </list>
+    </option>
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
       <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Profiles" type="6783ec58:MavenProjectsStructure$ProfilesNode" />
+        </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="jaden springDataJPA" type="9519ce18:MavenProjectsStructure$ProjectNode" />
@@ -427,22 +346,36 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="120" />
-    <option name="y" value="137" />
-    <option name="width" value="1392" />
-    <option name="height" value="877" />
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-5" />
+    <option name="y" value="71" />
+    <option name="width" value="1400" />
+    <option name="height" value="970" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -474,7 +407,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="multiThreadProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="mapstruct" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringDataJPA" type="b2602c69:ProjectViewProjectNode" />
@@ -482,8 +415,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="multiThreadProgramming" type="462c0819:PsiDirectoryNode" />
-              <item name="chap4" type="462c0819:PsiDirectoryNode" />
+              <item name="mapstruct" type="462c0819:PsiDirectoryNode" />
+              <item name="food" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringDataJPA" type="b2602c69:ProjectViewProjectNode" />
@@ -491,9 +424,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="multiThreadProgramming" type="462c0819:PsiDirectoryNode" />
-              <item name="chap4" type="462c0819:PsiDirectoryNode" />
-              <item name="Fair_noFair_test" type="462c0819:PsiDirectoryNode" />
+              <item name="mapstruct" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringDataJPA" type="b2602c69:ProjectViewProjectNode" />
@@ -501,41 +433,47 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="multiThreadProgramming" type="462c0819:PsiDirectoryNode" />
-              <item name="chap4" type="462c0819:PsiDirectoryNode" />
-              <item name="MutexLockTest" type="462c0819:PsiDirectoryNode" />
+              <item name="orika" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringDataJPA" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringDataJPA" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="multiThreadProgramming" type="462c0819:PsiDirectoryNode" />
-              <item name="chap4" type="462c0819:PsiDirectoryNode" />
-              <item name="ReentrantLockTest" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringDataJPA" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringDataJPA" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="multiThreadProgramming" type="462c0819:PsiDirectoryNode" />
-              <item name="chap4" type="462c0819:PsiDirectoryNode" />
-              <item name="TwinLockTest" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="generated-sources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringDataJPA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringDataJPA" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="generated-sources" type="462c0819:PsiDirectoryNode" />
+              <item name="annotations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringDataJPA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringDataJPA" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="generated-sources" type="462c0819:PsiDirectoryNode" />
+              <item name="annotations" type="462c0819:PsiDirectoryNode" />
+              <item name="mapstruct" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ChangesTree.GroupingKeys" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="JPA.DatabaseSchemaImportDialog" value="aefb81ef-98d6-4787-8b2f-d15f54a4ccc1" />
-    <property name="SearchEverywhereHistoryKey" value="ReadWriteLock&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReadWriteLock&#10;ThreadLocal&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java&#10;File&#9;PSI&#9;JAVA://org.jaden.jpa.controller.FileUploadController&#10;log4j&#9;FILE&#9;file:///Users/jaden/Jaden_Data/2_Personal/1_个人项目/SpringDataJPA/src/main/resources/log4j.properties&#10;ReentrantLock&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock&#10;des&#9;PSI&#9;JAVA://sun.security.krb5.internal.crypto.Des&#10;test&#9;FILE&#9;file:///Users/jaden/Jaden_Data/2_Personal/1_个人项目/SpringDataJPA/src/test/java/Test.java&#10;index&#9;FILE&#9;file:///Users/jaden/Jaden_Data/2_Personal/1_个人项目/SpringDataJPA/src/main/webapp/index.html&#10;web&#9;FILE&#9;file:///Users/jaden/Jaden_Data/2_Personal/1_个人项目/SpringDataJPA/src/main/webapp/WEB-INF/web.xml&#10;SessionD&#9;FILE&#9;file:///Users/jaden/Jaden_Data/2_Personal/1_个人项目/SpringDataJPA/src/main/java/spring/session/SessionDemo1.java&#10;web.&#9;FILE&#9;file:///Users/jaden/Jaden_Data/2_Personal/1_个人项目/SpringDataJPA/src/main/webapp/WEB-INF/web.xml&#10;Proper&#9;PSI&#9;JAVA://org.jaden.jpa.utils.PropertiesUtil&#10;web.xml&#9;FILE&#9;file:///Users/jaden/Jaden_Data/2_Personal/1_个人项目/SpringDataJPA/src/main/webapp/WEB-INF/web.xml&#10;sprin&#9;FILE&#9;file:///Users/jaden/Jaden_Data/2_Personal/1_个人项目/SpringDataJPA/src/main/resources/spring-context.xml&#10;spring&#9;FILE&#9;file:///Users/jaden/Jaden_Data/2_Personal/1_个人项目/SpringDataJPA/src/main/resources/spring-data-jpa.xml&#10;view&#9;PSI&#9;JAVA://org.jaden.jpa.controller.ViewController&#10;TransactionAspectSupport&#9;FILE&#9;jar:///Users/jaden/.m2/repository/org/springframework/spring-tx/4.3.9.RELEASE/spring-tx-4.3.9.RELEASE.jar!/org/springframework/transaction/interceptor/TransactionAspectSupport.class&#10;DefaultTransactions&#9;PSI&#9;JAVA://org.springframework.transaction.support.DefaultTransactionStatus&#10;TransactionInterce&#9;PSI&#9;JAVA://org.springframework.transaction.interceptor.TransactionInterceptor&#10;spri&#9;FILE&#9;file:///Users/jaden/Jaden_Data/2_Personal/1_个人项目/SpringDataJPA/src/main/resources/spring-data-jpa.xml&#10;web.x&#9;FILE&#9;file:///Users/jaden/Jaden_Data/2_Personal/1_个人项目/SpringDataJPA/src/main/webapp/WEB-INF/web.xml&#10;log&#9;FILE&#9;file:///Users/jaden/Jaden_Data/2_Personal/1_个人项目/SpringDataJPA/src/main/resources/log4j.properties&#10;spring-data-jpa&#9;FILE&#9;file:///Users/jaden/Jaden_Data/2_Personal/1_个人项目/SpringDataJPA/src/main/resources/spring-data-jpa.xml&#10;JpaTrans&#9;FILE&#9;jar:///Users/jaden/.m2/repository/org/springframework/spring-orm/4.3.9.RELEASE/spring-orm-4.3.9.RELEASE.jar!/org/springframework/orm/jpa/JpaTransactionManager.class&#10;paTransactionManager&#9;FILE&#9;jar:///Users/jaden/.m2/repository/org/springframework/spring-orm/4.3.9.RELEASE/spring-orm-4.3.9.RELEASE.jar!/org/springframework/orm/jpa/JpaTransactionManager.class&#10;tranint&#9;PSI&#9;JAVA://org.springframework.transaction.interceptor.TransactionInterceptor&#10;spring-&#9;FILE&#9;file:///Users/jaden/Jaden_Data/2_Personal/1_个人项目/SpringDataJPA/src/main/resources/spring-data-jpa.xml&#10;CrudR&#9;PSI&#9;JAVA://org.springframework.data.repository.CrudRepository&#10;Classloa&#9;PSI&#9;JAVA://java.lang.ClassLoader&#10;ExtClass&#9;PSI&#9;JAVA://sun.misc.Launcher.ExtClassLoader&#10;Spe&#9;FILE&#9;file:///Users/jaden/Jaden_Data/2_Personal/1_个人项目/SpringDataJPA/src/main/java/org/jaden/jpa/repository/specifications/BookSpecs.java&#10;BufferedIn&#9;PSI&#9;JAVA://java.io.BufferedInputStream&#10;FilterIn&#9;PSI&#9;JAVA://java.io.FilterInputStream&#10;FileInput&#9;PSI&#9;JAVA://java.io.FileInputStream&#10;InputStreamR&#9;PSI&#9;JAVA://java.io.InputStreamReader&#10;Reader&#9;PSI&#9;JAVA://java.io.Reader&#10;InputStr&#9;PSI&#9;JAVA://java.io.InputStream&#10;Base&#9;FILE&#9;file:///Users/jaden/Jaden_Data/2_Personal/1_个人项目/SpringDataJPA/src/main/java/org/jaden/jpa/repository/BaseRepository.java&#10;Servlet&#9;PSI&#9;JAVA://spring.form.resubmit.FormServlet&#10;Aop&#9;PSI&#9;JAVA://spring.aop.demo.AopUsingController&#10;Controller&#9;ACTION&#9;grails.goto.controller&#10;HttpRequestHand&#9;FILE&#9;jar:///Users/jaden/.m2/repository/org/springframework/spring-web/4.3.9.RELEASE/spring-web-4.3.9.RELEASE-sources.jar!/org/springframework/web/HttpRequestHandler.java&#10;SimpleServletHandlerAdapter&#9;PSI&#9;JAVA://org.springframework.web.servlet.handler.SimpleServletHandlerAdapter&#10;SimpleController&#9;PSI&#9;JAVA://org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter&#10;HttpRequestHandler&#9;PSI&#9;JAVA://org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter&#10;Dis&#9;FILE&#9;jar:///Users/jaden/.m2/repository/org/springframework/spring-webmvc/4.3.9.RELEASE/spring-webmvc-4.3.9.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java&#10;pom&#9;FILE&#9;file:///Users/jaden/Jaden_Data/2_Personal/1_个人项目/SpringDataJPA/pom.xml&#10;Simple&#9;FILE&#9;jar:///Users/jaden/.m2/repository/org/springframework/spring-webmvc/4.3.9.RELEASE/spring-webmvc-4.3.9.RELEASE-sources.jar!/org/springframework/web/servlet/handler/SimpleUrlHandlerMapping.java&#10;Login&#9;FILE&#9;file:///Users/jaden/Jaden_Data/2_Personal/1_个人项目/SpringDataJPA/src/main/java/jdk/ValidateVo/LoginVo.java&#10;todo&#9;ACTION&#9;ActivateTODOToolWindow" />
+    <property name="SearchEverywhereHistoryKey" value="OrderMap&#9;PSI&#9;JAVA://mapstruct.OrderMapperImpl&#10;spring-data&#9;FILE&#9;file://D:/Users/hd.jin/gitProject/SpringDataJPA/src/main/resources/spring-data-jpa.xml&#10;controller&#9;PSI&#9;JAVA://org.jaden.jpa.controller.BooksController&#10;ReadWriteLock&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReadWriteLock&#10;ThreadLocal&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java&#10;File&#9;PSI&#9;JAVA://org.jaden.jpa.controller.FileUploadController&#10;log4j&#9;FILE&#9;file:///Users/jaden/Jaden_Data/2_Personal/1_个人项目/SpringDataJPA/src/main/resources/log4j.properties&#10;ReentrantLock&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock&#10;des&#9;PSI&#9;JAVA://sun.security.krb5.internal.crypto.Des&#10;test&#9;FILE&#9;file:///Users/jaden/Jaden_Data/2_Personal/1_个人项目/SpringDataJPA/src/test/java/Test.java&#10;index&#9;FILE&#9;file:///Users/jaden/Jaden_Data/2_Personal/1_个人项目/SpringDataJPA/src/main/webapp/index.html&#10;web&#9;FILE&#9;file:///Users/jaden/Jaden_Data/2_Personal/1_个人项目/SpringDataJPA/src/main/webapp/WEB-INF/web.xml&#10;SessionD&#9;FILE&#9;file:///Users/jaden/Jaden_Data/2_Personal/1_个人项目/SpringDataJPA/src/main/java/spring/session/SessionDemo1.java&#10;web.&#9;FILE&#9;file:///Users/jaden/Jaden_Data/2_Personal/1_个人项目/SpringDataJPA/src/main/webapp/WEB-INF/web.xml&#10;Proper&#9;PSI&#9;JAVA://org.jaden.jpa.utils.PropertiesUtil&#10;web.xml&#9;FILE&#9;file:///Users/jaden/Jaden_Data/2_Personal/1_个人项目/SpringDataJPA/src/main/webapp/WEB-INF/web.xml&#10;sprin&#9;FILE&#9;file:///Users/jaden/Jaden_Data/2_Personal/1_个人项目/SpringDataJPA/src/main/resources/spring-context.xml&#10;spring&#9;FILE&#9;file:///Users/jaden/Jaden_Data/2_Personal/1_个人项目/SpringDataJPA/src/main/resources/spring-data-jpa.xml&#10;view&#9;PSI&#9;JAVA://org.jaden.jpa.controller.ViewController&#10;TransactionAspectSupport&#9;FILE&#9;jar:///Users/jaden/.m2/repository/org/springframework/spring-tx/4.3.9.RELEASE/spring-tx-4.3.9.RELEASE.jar!/org/springframework/transaction/interceptor/TransactionAspectSupport.class&#10;DefaultTransactions&#9;PSI&#9;JAVA://org.springframework.transaction.support.DefaultTransactionStatus&#10;TransactionInterce&#9;PSI&#9;JAVA://org.springframework.transaction.interceptor.TransactionInterceptor&#10;spri&#9;FILE&#9;file:///Users/jaden/Jaden_Data/2_Personal/1_个人项目/SpringDataJPA/src/main/resources/spring-data-jpa.xml&#10;web.x&#9;FILE&#9;file:///Users/jaden/Jaden_Data/2_Personal/1_个人项目/SpringDataJPA/src/main/webapp/WEB-INF/web.xml&#10;log&#9;FILE&#9;file:///Users/jaden/Jaden_Data/2_Personal/1_个人项目/SpringDataJPA/src/main/resources/log4j.properties&#10;spring-data-jpa&#9;FILE&#9;file:///Users/jaden/Jaden_Data/2_Personal/1_个人项目/SpringDataJPA/src/main/resources/spring-data-jpa.xml&#10;JpaTrans&#9;FILE&#9;jar:///Users/jaden/.m2/repository/org/springframework/spring-orm/4.3.9.RELEASE/spring-orm-4.3.9.RELEASE.jar!/org/springframework/orm/jpa/JpaTransactionManager.class&#10;paTransactionManager&#9;FILE&#9;jar:///Users/jaden/.m2/repository/org/springframework/spring-orm/4.3.9.RELEASE/spring-orm-4.3.9.RELEASE.jar!/org/springframework/orm/jpa/JpaTransactionManager.class&#10;tranint&#9;PSI&#9;JAVA://org.springframework.transaction.interceptor.TransactionInterceptor&#10;spring-&#9;FILE&#9;file:///Users/jaden/Jaden_Data/2_Personal/1_个人项目/SpringDataJPA/src/main/resources/spring-data-jpa.xml&#10;CrudR&#9;PSI&#9;JAVA://org.springframework.data.repository.CrudRepository&#10;Classloa&#9;PSI&#9;JAVA://java.lang.ClassLoader&#10;ExtClass&#9;PSI&#9;JAVA://sun.misc.Launcher.ExtClassLoader&#10;Spe&#9;FILE&#9;file:///Users/jaden/Jaden_Data/2_Personal/1_个人项目/SpringDataJPA/src/main/java/org/jaden/jpa/repository/specifications/BookSpecs.java&#10;BufferedIn&#9;PSI&#9;JAVA://java.io.BufferedInputStream&#10;FilterIn&#9;PSI&#9;JAVA://java.io.FilterInputStream&#10;FileInput&#9;PSI&#9;JAVA://java.io.FileInputStream&#10;InputStreamR&#9;PSI&#9;JAVA://java.io.InputStreamReader&#10;Reader&#9;PSI&#9;JAVA://java.io.Reader&#10;InputStr&#9;PSI&#9;JAVA://java.io.InputStream&#10;Base&#9;FILE&#9;file:///Users/jaden/Jaden_Data/2_Personal/1_个人项目/SpringDataJPA/src/main/java/org/jaden/jpa/repository/BaseRepository.java&#10;Servlet&#9;PSI&#9;JAVA://spring.form.resubmit.FormServlet&#10;Aop&#9;PSI&#9;JAVA://spring.aop.demo.AopUsingController&#10;Controller&#9;ACTION&#9;grails.goto.controller&#10;HttpRequestHand&#9;FILE&#9;jar:///Users/jaden/.m2/repository/org/springframework/spring-web/4.3.9.RELEASE/spring-web-4.3.9.RELEASE-sources.jar!/org/springframework/web/HttpRequestHandler.java&#10;SimpleServletHandlerAdapter&#9;PSI&#9;JAVA://org.springframework.web.servlet.handler.SimpleServletHandlerAdapter&#10;SimpleController&#9;PSI&#9;JAVA://org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter&#10;HttpRequestHandler&#9;PSI&#9;JAVA://org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter&#10;Dis&#9;FILE&#9;jar:///Users/jaden/.m2/repository/org/springframework/spring-webmvc/4.3.9.RELEASE/spring-webmvc-4.3.9.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java&#10;pom&#9;FILE&#9;file:///Users/jaden/Jaden_Data/2_Personal/1_个人项目/SpringDataJPA/pom.xml" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="$PROJECT_DIR$/.gitignore" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -544,37 +482,38 @@
     <property name="js-jscs-nodeInterpreter" value="D:\软件安装包\NodeJS\node.exe" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/org/jaden/jpa/entity" />
-    <property name="last_opened_file_path" value="D:/CPICEclipseWorkbench/fastjson/fastjson-1.1.33.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="nodejs_interpreter_path" value="node" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.42873564" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="mapstruct.food" />
+      <recent name="mapstruct.order" />
+      <recent name="mapstruct" />
+      <recent name="orika" />
+      <recent name="designPattern.multi" />
+    </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="AQS.exlusiveMode" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\jaden\SpringDataJPA\src\main\webapp\WEB-INF" />
     </key>
     <key name="ImportMappingsDialog.RecentPackages">
       <recent name="org.jaden.jpa.entity" />
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\hd.jin\gitProject\SpringDataJPA\src\main\java\mapstruct" />
+      <recent name="D:\Users\hd.jin\gitProject\SpringDataJPA\src\main\java\designPattern\multi" />
       <recent name="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/MustUseMoreCondition_OK" />
       <recent name="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap6/singleton_8" />
       <recent name="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap6" />
-      <recent name="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap6/singleton_7" />
-      <recent name="$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap2/t16_1" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="multiThreadProgramming.chap4.ReadWriteLockBegin4" />
-      <recent name="multiThreadProgramming.chap4.MustUseMoreCondition_OK" />
-      <recent name="multiThreadProgramming.chap3.join_sleep_2" />
-      <recent name="multiThreadProgramming.chap2.t16_1" />
-      <recent name="multiThreadProgramming.chap3.wait_notify_insert_test" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\jaden\SpringDataJPA\src\main\webapp\WEB-INF" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -589,149 +528,223 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (2)">
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
+  <component name="RunManager" selected="Application.TestMapStruct">
+    <configuration name="CompletableFutureExceptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="jdk.completableFuture.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="jdk.completableFuture.CompletableFutureExceptionTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SpringDataJPA" />
+      <envs />
+    </configuration>
+    <configuration name="TestMapStruct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="mapstruct.food.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="mapstruct.TestMapStruct" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SpringDataJPA" />
+      <envs />
+    </configuration>
+    <configuration name="TestOrika" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="orika.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="orika.TestOrika" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SpringDataJPA" />
+      <envs />
+    </configuration>
+    <configuration name="TestOrika.givenSrcAndDest_whenMapsUsingBoundMapper_thenCorrect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="orika.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="SpringDataJPA" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="orika" />
+      <option name="MAIN_CLASS_NAME" value="orika.TestOrika" />
+      <option name="METHOD_NAME" value="givenSrcAndDest_whenMapsUsingBoundMapper_thenCorrect" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="TestUsing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="orika.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="designPattern.multi.TestUsing" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SpringDataJPA" />
+      <envs />
+    </configuration>
+    <configuration name="UnitTest.testStuManyToManyAndManyToOne" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="SpringDataJPA" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="EXTRA_OPTIONS" value="" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
-        <option name="GAPID_ENABLED" value="false" />
-        <option name="GAPID_DISABLE_PCS" value="false" />
-        <option name="SUPPORT_LIB_ENABLED" value="true" />
-        <option name="INSTRUMENTATION_ENABLED" value="true" />
-      </Profilers>
-      <method />
+      <option name="MAIN_CLASS_NAME" value="UnitTest" />
+      <option name="METHOD_NAME" value="testStuManyToManyAndManyToOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
     </configuration>
-    <configuration default="true" type="Applet">
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multiThreadProgramming.chap4.Fair_noFair_test.Test" />
-      <module name="SpringDataJPA" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="multiThreadProgramming.chap4.Fair_noFair_test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multiThreadProgramming.chap4.MutexLockTest.Test" />
-      <module name="SpringDataJPA" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="multiThreadProgramming.chap4.MutexLockTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multiThreadProgramming.chap4.ReadWriteLockBegin4.Test" />
-      <module name="SpringDataJPA" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="multiThreadProgramming.chap4.ReadWriteLockBegin4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multiThreadProgramming.chap4.MustUseMoreCondition_OK.Test" />
-      <module name="SpringDataJPA" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="multiThreadProgramming.chap4.MustUseMoreCondition_OK.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multiThreadProgramming.chap4.UseConditionWaitNotifyOK.Test" />
-      <module name="SpringDataJPA" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="multiThreadProgramming.chap4.UseConditionWaitNotifyOK.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method>
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
       </option>
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <properties />
-      <listeners />
-      <method v="2">
+      <envs />
+      <patterns />
+      <method>
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="FlashRunConfigurationType">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="WIDTH" value="0" />
+      <option name="HEIGHT" value="0" />
+      <module />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
       <option name="BCName" value="" />
       <option name="IOSSimulatorSdkPath" value="" />
       <option name="adlOptions" value="" />
       <option name="airProgramParameters" value="" />
       <option name="appDescriptorForEmulator" value="Android" />
-      <option name="clearAppDataOnEachLaunch" value="true" />
       <option name="debugTransport" value="USB" />
       <option name="debuggerSdkRaw" value="BC SDK" />
       <option name="emulator" value="NexusOne" />
@@ -759,11 +772,11 @@
       <option name="screenWidth" value="0" />
       <option name="url" value="http://" />
       <option name="usbDebugPort" value="7936" />
-      <method v="2">
+      <method>
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="FlexUnitRunConfigurationType" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
       <option name="BCName" value="" />
       <option name="launcherParameters">
         <LauncherParameters>
@@ -775,7 +788,7 @@
       </option>
       <option name="moduleName" value="" />
       <option name="trusted" value="true" />
-      <method v="2">
+      <method>
         <option name="Make" enabled="true" />
       </method>
     </configuration>
@@ -786,35 +799,105 @@
       <setting name="launchBrowser" value="true" />
       <setting name="launchBrowserUrl" value="" />
       <setting name="depsClasspath" value="false" />
-      <method v="2" />
     </configuration>
-    <configuration name="UnitTest.testStuManyToManyAndManyToOne" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
-      <module name="SpringDataJPA" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="UnitTest" />
-      <option name="METHOD_NAME" value="testStuManyToManyAndManyToOne" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method>
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
       <properties />
       <listeners />
-      <method v="2">
+      <method>
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tomcat8" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.24" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/SpringDataJPA_war_exploded/" />
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration name="tomcat8" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.33" ALTERNATIVE_JRE_ENABLED="false">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="SpringDataJPA:war exploded">
@@ -826,11 +909,12 @@
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="Unnamed_SpringDataJPA" />
       </server-settings>
-      <predefined_log_file enabled="true" id="Tomcat" />
-      <predefined_log_file enabled="true" id="Tomcat Catalina" />
-      <predefined_log_file id="Tomcat Manager" />
-      <predefined_log_file id="Tomcat Host Manager" />
-      <predefined_log_file id="Tomcat Localhost Access" />
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="49662" />
       </RunnerSettings>
@@ -879,49 +963,33 @@
           <option name="PROGRAM_PARAMETERS" value="" />
         </SHUTDOWN>
       </ConfigurationWrapper>
-      <method v="2">
-        <option name="Make" enabled="true" />
+      <method>
         <option name="BuildArtifacts" enabled="true">
           <artifact name="SpringDataJPA:war exploded" />
         </option>
       </method>
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file enabled="true" id="idea.log" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="js.build_tools.gulp">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="JUnit.UnitTest.testStuManyToManyAndManyToOne" />
-      <item itemvalue="Tomcat Server.tomcat8" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.Test (4)" />
-      <item itemvalue="Application.Test (1)" />
-      <item itemvalue="Application.Test (2)" />
-      <item itemvalue="Application.Test (3)" />
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.UnitTest.testStuManyToManyAndManyToOne" />
+      <item index="1" class="java.lang.String" itemvalue="Tomcat Server.tomcat8" />
+      <item index="2" class="java.lang.String" itemvalue="Application.CompletableFutureExceptionTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TestUsing" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TestOrika" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.TestOrika.givenSrcAndDest_whenMapsUsingBoundMapper_thenCorrect" />
+      <item index="6" class="java.lang.String" itemvalue="Application.TestMapStruct" />
     </list>
     <recent_temporary>
-      <list>
-        <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.Test (3)" />
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Test (4)" />
-        <item itemvalue="Application.Test" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.TestMapStruct" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestOrika" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestOrika.givenSrcAndDest_whenMapsUsingBoundMapper_thenCorrect" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TestUsing" />
+        <item index="4" class="java.lang.String" itemvalue="Application.CompletableFutureExceptionTest" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -1016,6 +1084,22 @@
       <workItem from="1548672170464" duration="1004000" />
       <workItem from="1548815086880" duration="586000" />
       <workItem from="1548988155294" duration="58785000" />
+      <workItem from="1552899801127" duration="6224000" />
+      <workItem from="1553155726822" duration="697000" />
+      <workItem from="1553158413804" duration="11597000" />
+      <workItem from="1553252993290" duration="5481000" />
+      <workItem from="1554274468422" duration="1536000" />
+      <workItem from="1554357010958" duration="1209000" />
+      <workItem from="1555472345249" duration="3508000" />
+      <workItem from="1555557594083" duration="1603000" />
+      <workItem from="1556158148214" duration="5286000" />
+      <workItem from="1556535006483" duration="6717000" />
+      <workItem from="1557295932460" duration="3474000" />
+      <workItem from="1557728379086" duration="4823000" />
+      <workItem from="1557747838791" duration="3567000" />
+      <workItem from="1557819097416" duration="7259000" />
+      <workItem from="1558344474996" duration="9388000" />
+      <workItem from="1558688826665" duration="1507000" />
     </task>
     <task id="LOCAL-00001" summary="jaden">
       <created>1512984568200</created>
@@ -1080,16 +1164,17 @@
       <option name="project" value="LOCAL" />
       <updated>1545042088681</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="1.上传-将pom中&lt;spring-data-jpa-version&gt;升高  2019-05-14  jinhd">
+      <created>1557811886774</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1557811886774</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MutexTest_test - 2018.12.17 at 19h 14m 14s.xml">
-      <configuration name="MutexTest.test" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="MutexTest_test - 2018.12.17 at 19h 15m 38s.xml">
-      <configuration name="MutexTest.test" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="MutexTest_test - 2018.12.17 at 19h 19m 20s.xml">
       <configuration name="MutexTest.test" configurationId="TestNG" />
     </history-entry>
@@ -1114,9 +1199,15 @@
     <history-entry file="MutexTest_test_(2) - 2018.12.17 at 19h 11m 52s.xml">
       <configuration name="MutexTest.test (2)" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="TestOrika_givenSrcAndDest_whenMapsUsingBoundMapper_thenCorrect - 2019.05.14 at 15h 37m 00s.xml">
+      <configuration name="TestOrika.givenSrcAndDest_whenMapsUsingBoundMapper_thenCorrect" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestOrika_givenSrcAndDest_whenMapsUsingBoundMapper_thenCorrect - 2019.05.14 at 15h 37m 32s.xml">
+      <configuration name="TestOrika.givenSrcAndDest_whenMapsUsingBoundMapper_thenCorrect" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="472266000" />
+    <option name="totallyTimeSpent" value="546142000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1128,88 +1219,42 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="120" y="137" width="1392" height="877" extended-state="1" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48209718" visible="true" weight="0.39481482" />
-      <window_info id="Structure" order="1" weight="0.24963072" />
-      <window_info id="Designer" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Image Layers" order="4" />
-      <window_info id="Nl-Palette" order="5" />
-      <window_info id="Web" order="6" side_tool="true" />
-      <window_info id="Persistence" order="7" sideWeight="0.525627" side_tool="true" weight="0.19156884" />
-      <window_info id="Favorites" order="8" sideWeight="0.5179028" side_tool="true" weight="0.22747415" />
-      <window_info id="Capture Tool" order="9" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32771084" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31782177" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49113476" weight="0.5192771" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32889965" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50886524" side_tool="true" weight="0.5803109" />
-      <window_info anchor="bottom" id="Java Enterprise" order="8" weight="0.32970297" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49763593" weight="0.42475247" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.326713" />
-      <window_info anchor="bottom" id="Spring" order="11" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3059406" />
-      <window_info anchor="bottom" id="Application Servers" order="13" weight="0.32936078" />
-      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="15" show_stripe_button="false" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" weight="0.32904148" />
-      <window_info anchor="right" id="Palette&#9;" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Properties" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Maven Projects" order="9" weight="0.3266085" />
-      <window_info anchor="right" id="Bean Validation" order="10" />
-      <window_info anchor="right" id="Maven" order="11" weight="0.32904148" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39825898" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32861805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37976062" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22334754" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UT Plugin" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48209718" visible="true" weight="0.28397712" />
-      <window_info id="Structure" order="1" weight="0.24963072" />
-      <window_info id="Designer" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Image Layers" order="4" />
-      <window_info id="Nl-Palette" order="5" />
-      <window_info id="Web" order="6" side_tool="true" />
-      <window_info id="Persistence" order="7" sideWeight="0.525627" side_tool="true" weight="0.19156884" />
-      <window_info id="Favorites" order="8" sideWeight="0.5179028" side_tool="true" weight="0.22747415" />
-      <window_info id="Capture Tool" order="9" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32771084" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3180723" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49113476" weight="0.5192771" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32889965" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50886524" side_tool="true" weight="0.5803109" />
-      <window_info anchor="bottom" id="Java Enterprise" order="8" weight="0.32970297" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49763593" weight="0.42475247" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.326713" />
-      <window_info anchor="bottom" id="Spring" order="11" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3059406" />
-      <window_info anchor="bottom" id="Application Servers" order="13" weight="0.32936078" />
-      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="15" show_stripe_button="false" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" weight="0.32904148" />
-      <window_info anchor="right" id="Palette&#9;" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Properties" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Maven Projects" order="9" weight="0.3266085" />
-      <window_info anchor="right" id="Bean Validation" order="10" />
-      <window_info anchor="right" id="Maven" order="11" weight="0.32904148" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -1249,20 +1294,9 @@
         </entry>
       </map>
     </option>
-    <option name="RECENT_FILTERS">
-      <map>
-        <entry key="Branch">
-          <value>
-            <list />
-          </value>
-        </entry>
-        <entry key="User">
-          <value>
-            <list />
-          </value>
-        </entry>
-      </map>
-    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="jaden" />
@@ -1274,7 +1308,8 @@
     <MESSAGE value="1.使用ajax调用后端接口。请求参数是json 字符串格式的。&#10;jinhd" />
     <MESSAGE value="1.上传&#10;jinhd" />
     <MESSAGE value="1.上传  2018-12-17 &#10;jinhd" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.上传  2018-12-17 &#10;jinhd" />
+    <MESSAGE value="1.上传-将pom中&lt;spring-data-jpa-version&gt;升高  2019-05-14  jinhd" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.上传-将pom中&lt;spring-data-jpa-version&gt;升高  2019-05-14  jinhd" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1687,458 +1722,468 @@
           <properties />
           <option name="timeStamp" value="134" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/jdk/completableFuture/CompletableFutureExceptionTest.java</url>
+          <line>19</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/orika/TestOrika.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/orika/util/EntityMapper.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.m2/repository/ma/glasnost/orika/orika-core/1.4.6/orika-core-1.4.6.jar!/ma/glasnost/orika/impl/MapperFacadeImpl.class</url>
+          <line>584</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/orika/TestOrika.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/ForkJoinPool.java</url>
+          <line>3399</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/orika/TestOrika.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/CompletableFuture.java</url>
+          <line>393</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/CompletableFuture.java</url>
+          <line>400</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/ForkJoinPool.java</url>
+          <line>3397</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/ForkJoinPool.java</url>
+          <line>3438</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Thread.java</url>
+          <line>409</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/orika/TestOrika.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
       </breakpoints>
+      <option name="time" value="22" />
     </breakpoint-manager>
+    <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap6/singleton_7/MyObject.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/AbstractMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        <state relative-caret-position="2415">
+          <caret line="142" column="19" lean-forward="false" selection-start-line="142" selection-start-column="19" selection-end-line="142" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19698">
+          <caret line="993" column="9" lean-forward="false" selection-start-line="993" selection-start-column="9" selection-end-line="993" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/InterruptedException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="46" column="18" lean-forward="false" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jdk/jdkeight/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="44" column="35" lean-forward="false" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Throwable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2268">
+          <caret line="132" column="7" lean-forward="false" selection-start-line="132" selection-start-column="7" selection-end-line="132" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jdk/completableFuture/CompletableFutureDemoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="13" column="39" lean-forward="false" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jdk/completableFuture/LambdaUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="47" column="47" lean-forward="false" selection-start-line="47" selection-start-column="47" selection-end-line="47" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jdk/completableFuture/CompletableFutureExceptionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="31" column="41" lean-forward="false" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/CompletionException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="58" column="6" lean-forward="false" selection-start-line="58" selection-start-column="6" selection-end-line="58" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jdk/lambda/UseLambda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="22" column="11" lean-forward="false" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/designPattern/multi/HTLOrdContactInfo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/designPattern/multi/HtlOrdContactInfoShard.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/designPattern/multi/TestUsing.java" />
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-beans/4.3.9.RELEASE/spring-beans-4.3.9.RELEASE.jar!/org/springframework/beans/BeanUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5544">
+          <caret line="288" column="23" lean-forward="false" selection-start-line="288" selection-start-column="23" selection-end-line="288" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/designPattern/multi/BaseMSDto.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/designPattern/multi/StudentDto.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/AQS/sharedMode/TwinsLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AQS/sharedMode/TwinsLockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/git&amp;idea/jaden---git快捷键.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/jaden/jpa/controller/BooksController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="121" column="32" lean-forward="false" selection-start-line="121" selection-start-column="32" selection-end-line="121" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/orika/StudentMysql.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/orika/StudentSqlServer.java" />
+    <entry file="jar://$USER_HOME$/.m2/repository/ma/glasnost/orika/orika-core/1.4.6/orika-core-1.4.6.jar!/ma/glasnost/orika/BoundMapperFacade.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/ma/glasnost/orika/orika-core/1.4.6/orika-core-1.4.6.jar!/ma/glasnost/orika/MapperFacade.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/orika/SourceStu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/orika/DestStu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="32" column="18" lean-forward="false" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/orika/util/EntityMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
           <folding>
-            <element signature="e#268#269#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#714#715#0" expanded="true" />
+            <element signature="e#765#766#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap6/singleton_7/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-data-jpa.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        <state relative-caret-position="378">
+          <caret line="18" column="46" lean-forward="true" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap6/singleton_7/MyThread.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/security/PrivilegedAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+        <state relative-caret-position="359">
+          <caret line="54" column="6" lean-forward="false" selection-start-line="54" selection-start-column="6" selection-end-line="54" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/ForkJoinPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="3399" column="0" lean-forward="false" selection-start-line="3399" selection-start-column="0" selection-end-line="3399" selection-end-column="0" />
           <folding>
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#124289#124290#0" expanded="true" />
+            <element signature="e#124329#124330#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap6/singleton_8/MyObject.java">
+    <entry file="jar://$USER_HOME$/.m2/repository/ma/glasnost/orika/orika-core/1.4.6/orika-core-1.4.6.jar!/ma/glasnost/orika/impl/MapperFacadeImpl.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-          <folding>
-            <element signature="e#268#269#0" expanded="true" />
-            <element signature="e#315#316#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="238">
+          <caret line="584" column="0" lean-forward="false" selection-start-line="584" selection-start-column="0" selection-end-line="584" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap6/singleton_8/MyThread.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/CompletableFuture.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="125">
+          <caret line="393" column="0" lean-forward="false" selection-start-line="393" selection-start-column="0" selection-end-line="393" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap6/singleton_8/Test.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="440">
+          <caret line="1438" column="25" lean-forward="true" selection-start-line="1438" selection-start-column="25" selection-end-line="1438" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/waitReleaseLock/ThreadA.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/orika/Dest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="189">
+          <caret line="12" column="40" lean-forward="false" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/waitReleaseLock/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/orika/Source.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="231">
+          <caret line="13" column="40" lean-forward="false" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/waitInterrupteException/Service.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/orika/TestOrika.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/waitInterrupteException/MyRunnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-          <folding>
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/waitReleaseLock/Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/wait_notify_insert_test/BackupA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-          <folding>
-            <element signature="e#261#262#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="381" column="29" selection-start-line="381" selection-start-column="29" selection-end-line="381" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/wait_notify_insert_test/DBTools.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/joinTest2/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/joinTest2/MainThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/join_sleep_2/ThreadB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-          <folding>
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#513#514#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/join_sleep_2/ThreadA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/join_sleep_2/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="1257" column="25" selection-start-line="1257" selection-start-column="20" selection-end-line="1257" selection-end-column="25" />
-          <folding>
-            <element signature="e#15704#15705#0" expanded="true" />
-            <element signature="e#15770#15771#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/join_sleep_2/ThreadC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap3/joinTest2/SubThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/ReentrantLockTest/MyRunnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-          <folding>
-            <element signature="e#187#188#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/ReentrantLockTest/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/ReentrantLockTest/MyService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/UseConditionWaitNotifyOK/ThreadA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-          <folding>
-            <element signature="e#265#266#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/Condition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="728">
-          <caret line="467" column="9" selection-start-line="467" selection-start-column="9" selection-end-line="467" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/UseConditionWaitNotifyOK/MyService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="671">
+          <caret line="54" column="47" lean-forward="false" selection-start-line="54" selection-start-column="47" selection-end-line="54" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/UseConditionWaitNotifyOK/Test.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="81" selection-start-line="3" selection-start-column="81" selection-end-line="3" selection-end-column="81" />
+        <state relative-caret-position="491">
+          <caret line="361" column="51" lean-forward="false" selection-start-line="361" selection-start-column="51" selection-end-line="361" selection-end-column="51" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/MustUseMoreCondition_OK/ThreadA.java">
+    <entry file="file://$PROJECT_DIR$/target/generated-sources/annotations/mapstruct/OrderMapperImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        <state relative-caret-position="399">
+          <caret line="25" column="50" lean-forward="false" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/MustUseMoreCondition_OK/ThreadB.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapstruct/order/OrderSqlServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/MustUseMoreCondition_OK/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="115" column="51" selection-start-line="115" selection-start-column="51" selection-end-line="115" selection-end-column="51" />
+        <state relative-caret-position="84">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
-            <element signature="e#8176#8177#0" expanded="true" />
-            <element signature="e#8216#8217#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/MustUseMoreCondition_OK/MyService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapstruct/order/OrderDto.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="563" column="28" selection-start-line="563" selection-start-column="28" selection-end-line="563" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/Lock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="183" column="9" selection-start-line="183" selection-start-column="9" selection-end-line="183" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractOwnableSynchronizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="72" column="25" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="25" />
+        <state relative-caret-position="84">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
-            <element signature="e#1663#1664#0" expanded="true" />
-            <element signature="e#1708#1709#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="false" />
+            <element signature="e#231#232#0" expanded="false" />
+            <element signature="e#275#276#0" expanded="false" />
+            <element signature="e#313#314#0" expanded="false" />
+            <element signature="e#344#345#0" expanded="false" />
+            <element signature="e#371#372#0" expanded="false" />
+            <element signature="e#411#412#0" expanded="false" />
+            <element signature="e#443#444#0" expanded="false" />
+            <element signature="e#470#471#0" expanded="false" />
+            <element signature="e#496#497#0" expanded="false" />
+            <element signature="e#531#532#0" expanded="false" />
+            <element signature="e#561#562#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/Fair_noFair_test/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapstruct/order/OrderSqlServerMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/Fair_noFair_test/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-          <folding>
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/Fair_noFair_test/Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        <state relative-caret-position="147">
+          <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/ReadWriteLockBegin4/ThreadB.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapstruct/order/OrderMysql.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        <state relative-caret-position="42">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/ReadWriteLockBegin4/ThreadA.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapstruct/TestMapStruct.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-          <folding>
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/ReadWriteLockBegin4/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReadWriteLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="124" column="20" lean-forward="true" selection-start-line="124" selection-start-column="20" selection-end-line="124" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/ReadWriteLockBegin4/Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/MutexLockTest/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#229#390#0" expanded="true" />
-            <element signature="e#389#390#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="585" column="61" lean-forward="true" selection-start-line="585" selection-start-column="61" selection-end-line="585" selection-end-column="61" />
-          <folding>
-            <element signature="e#26818#26819#0" expanded="true" />
-            <element signature="e#26858#26859#0" expanded="true" />
-            <element signature="class#WriteLock#0;class#ReentrantReadWriteLock#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/MutexLockTest/Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+        <state relative-caret-position="273">
+          <caret line="13" column="52" lean-forward="true" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/TwinLockTest/TwinLockTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapstruct/food/FoodDto.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="42">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/MutexLockTest/Mutex.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapstruct/food/FoodMysql.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapstruct/order/OrderMysqlMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapstruct/BaseMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="24" column="11" lean-forward="false" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
-            <element signature="e#493#494#0" expanded="true" />
-            <element signature="e#1192#1193#0" expanded="true" />
-            <element signature="e#1244#1245#0" expanded="true" />
-            <element signature="method#tryLock#1;class#Mutex#0" />
-            <element signature="method#lockInterruptibly#0;class#Mutex#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multiThreadProgramming/chap4/TwinLockTest/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapstruct/food/FoodSqlServerMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="189">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapstruct/food/FoodSqlServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mapstruct/food/FoodMysqlMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2153,6 +2198,7 @@
             <option name="proportions">
               <list>
                 <option value="0.42873564" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -2160,7 +2206,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited>Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -2200,7 +2246,6 @@
             <option name="proportions">
               <list>
                 <option value="0.42873564" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
