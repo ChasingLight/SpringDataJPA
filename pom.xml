@@ -17,7 +17,7 @@
         <hibernate.version>4.3.7.Final</hibernate.version>
         <aspectjrt.version>1.7.4</aspectjrt.version>
         <aspectjweaver.version>1.7.4</aspectjweaver.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <druid.version>1.0.26</druid.version>
         <commons-lang3.version>3.5</commons-lang3.version>
         <spring-security.version>4.2.2.RELEASE</spring-security.version>
